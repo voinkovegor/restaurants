@@ -1,0 +1,3542 @@
+[
+    {
+        "model": "list_rest.restaurant",
+        "pk": 252,
+        "fields": {
+            "title": "KFC",
+            "adress": "Нижегородская ул., 50, этаж 1, 2",
+            "lat": 37.701614,
+            "lon": 55.735615
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 253,
+        "fields": {
+            "title": "KFC",
+            "adress": "Никольская ул., 17, стр. 1",
+            "lat": 37.623042,
+            "lon": 55.757679
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 254,
+        "fields": {
+            "title": "KFC",
+            "adress": "Москва, Манежная улица",
+            "lat": 37.61468,
+            "lon": 55.755469
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 255,
+        "fields": {
+            "title": "KFC",
+            "adress": "Волгоградский просп., 166, Москва",
+            "lat": 37.809736,
+            "lon": 55.694819
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 256,
+        "fields": {
+            "title": "KFC",
+            "adress": "ш. Энтузиастов, 20",
+            "lat": 37.715764,
+            "lon": 55.750991
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 257,
+        "fields": {
+            "title": "KFC",
+            "adress": "Комсомольская площадь, 2",
+            "lat": 37.656627,
+            "lon": 55.774619
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 258,
+        "fields": {
+            "title": "KFC",
+            "adress": "Москва, Манежная площадь",
+            "lat": 37.613154,
+            "lon": 55.75486
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 259,
+        "fields": {
+            "title": "KFC",
+            "adress": "Новослободская ул., 11, стр. 1, Москва",
+            "lat": 37.600151,
+            "lon": 55.779849
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 260,
+        "fields": {
+            "title": "KFC",
+            "adress": "3-й Крутицкий пер., 18, Москва, этаж 3",
+            "lat": 37.664314,
+            "lon": 55.731813
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 261,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Красная Пресня, 4, Москва",
+            "lat": 37.576067,
+            "lon": 55.761186
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 262,
+        "fields": {
+            "title": "KFC",
+            "adress": "Зубовский бул., 17, стр. 1, Москва",
+            "lat": 37.590901,
+            "lon": 55.736266
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 263,
+        "fields": {
+            "title": "KFC",
+            "adress": "Верхняя Радищевская ул., 22, Москва, этаж 2",
+            "lat": 37.653259,
+            "lon": 55.742718
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 264,
+        "fields": {
+            "title": "KFC",
+            "adress": "Климентовский пер., 10, стр. 1, Москва",
+            "lat": 37.627846,
+            "lon": 55.740916
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 265,
+        "fields": {
+            "title": "KFC",
+            "adress": "Люблинская ул., 4, корп. 1, Москва, этаж 2",
+            "lat": 37.729901,
+            "lon": 55.707888
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 266,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Земляной Вал, 29, этаж -1",
+            "lat": 37.660182,
+            "lon": 55.758148
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 267,
+        "fields": {
+            "title": "KFC",
+            "adress": "Окружной пр., вл2Ас1, этаж 1",
+            "lat": 37.744351,
+            "lon": 55.803545
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 268,
+        "fields": {
+            "title": "KFC",
+            "adress": "Комсомольский просп., 24",
+            "lat": 37.580209,
+            "lon": 55.72819
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 269,
+        "fields": {
+            "title": "KFC",
+            "adress": "Шарикоподшипниковская ул., 13, стр. 1, Москва",
+            "lat": 37.677483,
+            "lon": 55.717485
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 270,
+        "fields": {
+            "title": "KFC",
+            "adress": "просп. Мира, 114Б, стр. 2, Москва",
+            "lat": 37.637991,
+            "lon": 55.808174
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 271,
+        "fields": {
+            "title": "KFC",
+            "adress": "Бутырская ул., 89",
+            "lat": 37.581382,
+            "lon": 55.806242
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 272,
+        "fields": {
+            "title": "KFC",
+            "adress": "1-я Останкинская ул., 55, этаж 1",
+            "lat": 37.635217,
+            "lon": 55.824284
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 273,
+        "fields": {
+            "title": "KFC",
+            "adress": "Цветной бул., 11, стр. 2, Москва, Концертный зал Мир, 1 этаж",
+            "lat": 37.620753,
+            "lon": 55.770035
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 274,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Земляной Вал, 33, этаж 3",
+            "lat": 37.659009,
+            "lon": 55.758195
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 275,
+        "fields": {
+            "title": "KFC",
+            "adress": "Рязанский просп., 75, корп. 3, Москва",
+            "lat": 37.793943,
+            "lon": 55.717484
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 276,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Грузинский Вал, 28/45, Москва",
+            "lat": 37.583059,
+            "lon": 55.775046
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 277,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Пресненский Вал, 6, стр. 2, Москва, этаж 1, 2",
+            "lat": 37.564257,
+            "lon": 55.764583
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 278,
+        "fields": {
+            "title": "KFC",
+            "adress": "Октябрьский просп., 170/7, Люберцы",
+            "lat": 37.892503,
+            "lon": 55.678841
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 279,
+        "fields": {
+            "title": "KFC",
+            "adress": "9-я Парковая ул., 30, Москва",
+            "lat": 37.799614,
+            "lon": 55.794879
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 280,
+        "fields": {
+            "title": "KFC",
+            "adress": "просп. Андропова, 23, Москва, этаж 2",
+            "lat": 37.664808,
+            "lon": 55.678341
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 281,
+        "fields": {
+            "title": "KFC",
+            "adress": "Инициативная ул., 7Б, Люберцы, этаж 2",
+            "lat": 37.89829,
+            "lon": 55.685572
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 282,
+        "fields": {
+            "title": "KFC",
+            "adress": "Пресненская наб., 4, стр. 1, Москва, этаж -1",
+            "lat": 37.543003,
+            "lon": 55.74871
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 283,
+        "fields": {
+            "title": "KFC",
+            "adress": "Волгоградский просп., 119А, Москва, этаж 2",
+            "lat": 37.765363,
+            "lon": 55.706321
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 284,
+        "fields": {
+            "title": "KFC",
+            "adress": "Варшавское ш., 26, стр. 5, Москва, ТЦ For You",
+            "lat": 37.621541,
+            "lon": 55.683837
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 285,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Народного Ополчения, 46, корп. 1, Москва, этаж 1, 2",
+            "lat": 37.493931,
+            "lon": 55.792935
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 286,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Дмитрия Ульянова, 20, корп. 1, Москва, этаж 1",
+            "lat": 37.571536,
+            "lon": 55.688019
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 287,
+        "fields": {
+            "title": "Kentucky Fried Chicken",
+            "adress": "Театральный пр., 5, стр. 2, Центральный административный округ, Тверской район, Москва, этаж 6",
+            "lat": 37.625467,
+            "lon": 55.759923
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 288,
+        "fields": {
+            "title": "KFC",
+            "adress": "Уральская ул., 1, стр. 2, Москва, этаж 1",
+            "lat": 37.797677,
+            "lon": 55.811128
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 289,
+        "fields": {
+            "title": "KFC",
+            "adress": "площадь Киевского Вокзала, 2, Москва, этаж 4",
+            "lat": 37.567217,
+            "lon": 55.744576
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 290,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Рождественка, 6, Москва",
+            "lat": 37.623721,
+            "lon": 55.760922
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 291,
+        "fields": {
+            "title": "KFC",
+            "adress": "Перовская ул., 61А, Москва, ТЦ Перово Молл, этаж 1",
+            "lat": 37.798249,
+            "lon": 55.745223
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 292,
+        "fields": {
+            "title": "KFC",
+            "adress": "Дубининская ул., 35, Москва",
+            "lat": 37.637037,
+            "lon": 55.724528
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 293,
+        "fields": {
+            "title": "KFC",
+            "adress": "Волгоградский просп., 32, корп. 1, Москва",
+            "lat": 37.689088,
+            "lon": 55.724207
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 294,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Сущёвский Вал, 59, Москва, этаж 2",
+            "lat": 37.615412,
+            "lon": 55.793515
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 295,
+        "fields": {
+            "title": "KFC",
+            "adress": "Спартаковская ул., 24, Москва, этаж 2",
+            "lat": 37.677303,
+            "lon": 55.772543
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 296,
+        "fields": {
+            "title": "KFC",
+            "adress": "Ленинградское ш., вл14с1, Москва, этаж 1",
+            "lat": 37.498288,
+            "lon": 55.820535
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 297,
+        "fields": {
+            "title": "KFC",
+            "adress": "просп. Мира, 92, стр. 1, Москва",
+            "lat": 37.635404,
+            "lon": 55.792924
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 298,
+        "fields": {
+            "title": "KFC",
+            "adress": "Люблинская ул., 102А, Москва, ТЦ Марьинский пассаж, этаж 1-2",
+            "lat": 37.742753,
+            "lon": 55.651568
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 299,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Вавилова, 3, Москва, этаж 3",
+            "lat": 37.593535,
+            "lon": 55.70584
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 300,
+        "fields": {
+            "title": "KFC",
+            "adress": "Комсомольская площадь, 3, Москва",
+            "lat": 37.654969,
+            "lon": 55.77718
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 301,
+        "fields": {
+            "title": "KFC",
+            "adress": "просп. Мира, 40, Москва, этаж -1",
+            "lat": 37.633609,
+            "lon": 55.780161
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 302,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Земляной Вал, 29, стр. 9, Москва",
+            "lat": 37.661678,
+            "lon": 55.755349
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 303,
+        "fields": {
+            "title": "KFC",
+            "adress": "Зелёный просп., 19, Москва",
+            "lat": 37.782311,
+            "lon": 55.750762
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 304,
+        "fields": {
+            "title": "KFC",
+            "adress": "Краснопрудная ул., 15, Москва",
+            "lat": 37.668294,
+            "lon": 55.780973
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 305,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Кржижановского, 18, корп. 3, Москва",
+            "lat": 37.571429,
+            "lon": 55.679402
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 306,
+        "fields": {
+            "title": "KFC",
+            "adress": "Сокольническая площадь, 9А, Москва, ТЦ Престиж, этаж 1",
+            "lat": 37.679634,
+            "lon": 55.790663
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 307,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Измайловский Вал, 2, Москва",
+            "lat": 37.719477,
+            "lon": 55.783435
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 308,
+        "fields": {
+            "title": "KFC",
+            "adress": "ш. Энтузиастов, 66А, Балашиха",
+            "lat": 37.970292,
+            "lon": 55.796749
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 309,
+        "fields": {
+            "title": "KFC",
+            "adress": "Совхозная ул., 39, Москва, этаж 3",
+            "lat": 37.760348,
+            "lon": 55.67391
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 310,
+        "fields": {
+            "title": "KFC",
+            "adress": "Рязанский просп., 2, корп. 2, Москва, этаж 2",
+            "lat": 37.73235,
+            "lon": 55.73022
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 311,
+        "fields": {
+            "title": "KFC",
+            "adress": "Измайловское ш., 69Г, Москва, эт. 3",
+            "lat": 37.750334,
+            "lon": 55.788329
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 312,
+        "fields": {
+            "title": "KFC",
+            "adress": "просп. Вернадского, 14А, Москва, этаж 2",
+            "lat": 37.506368,
+            "lon": 55.677683
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 313,
+        "fields": {
+            "title": "KFC",
+            "adress": "Рязанский просп., вл99Ас1, Москва, этаж 1",
+            "lat": 37.815783,
+            "lon": 55.712764
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 314,
+        "fields": {
+            "title": "KFC",
+            "adress": "Луганская ул., 10, Москва, этаж 2",
+            "lat": 37.667997,
+            "lon": 55.622216
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 315,
+        "fields": {
+            "title": "KFC",
+            "adress": "Можайское ш., 18А, Одинцово",
+            "lat": 37.276081,
+            "lon": 55.673922
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 316,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Третьяка, 8, микрорайон Авиаторов, Балашиха",
+            "lat": 37.951444,
+            "lon": 55.822939
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 317,
+        "fields": {
+            "title": "KFC",
+            "adress": "Чертановская ул., 1Г, Москва, этаж 2",
+            "lat": 37.606251,
+            "lon": 55.64035
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 318,
+        "fields": {
+            "title": "KFC",
+            "adress": "Хорошёвское ш., 27, Москва, этаж 4",
+            "lat": 37.524919,
+            "lon": 55.777275
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 319,
+        "fields": {
+            "title": "KFC",
+            "adress": "Дубнинская ул., 30А, стр. 1, Москва",
+            "lat": 37.55877,
+            "lon": 55.877119
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 320,
+        "fields": {
+            "title": "KFC",
+            "adress": "Восточная ул., 10, Москва, этаж 2",
+            "lat": 37.65783,
+            "lon": 55.712278
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 321,
+        "fields": {
+            "title": "KFC",
+            "adress": "Пресненская наб., 2, Москва, этаж 4",
+            "lat": 37.539204,
+            "lon": 55.748913
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 322,
+        "fields": {
+            "title": "KFC",
+            "adress": "Комсомольская площадь, 5, Москва, этаж 1",
+            "lat": 37.65701,
+            "lon": 55.776857
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 323,
+        "fields": {
+            "title": "KFC",
+            "adress": "Центральная ул., 102, стр. 1, микрорайон Кучино, Балашиха",
+            "lat": 37.946925,
+            "lon": 55.751787
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 324,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Генерала Ермолова, 4, Москва, этаж 1",
+            "lat": 37.517869,
+            "lon": 55.735005
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 325,
+        "fields": {
+            "title": "KFC",
+            "adress": "Дмитровское ш., 13, корп. 1, Москва, этаж 2",
+            "lat": 37.573257,
+            "lon": 55.818054
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 326,
+        "fields": {
+            "title": "KFC",
+            "adress": "Ленинградское ш., 27А, Химки, этаж 1",
+            "lat": 37.423945,
+            "lon": 55.899517
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 327,
+        "fields": {
+            "title": "KFC",
+            "adress": "Зелёный просп., 83, Москва, этаж 2",
+            "lat": 37.820394,
+            "lon": 55.752451
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 328,
+        "fields": {
+            "title": "KFC",
+            "adress": "Севастопольский просп., 20Б, Москва",
+            "lat": 37.596929,
+            "lon": 55.681656
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 329,
+        "fields": {
+            "title": "KFC",
+            "adress": "МКАД, 82-й километр, вл18, Москва",
+            "lat": 37.558542,
+            "lon": 55.908985
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 330,
+        "fields": {
+            "title": "KFC",
+            "adress": "Большая Семёновская ул., 16, Москва, этаж 3",
+            "lat": 37.703754,
+            "lon": 55.782238
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 331,
+        "fields": {
+            "title": "KFC",
+            "adress": "просп. Вернадского, 6, Москва, этаж 3",
+            "lat": 37.528071,
+            "lon": 55.692234
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 332,
+        "fields": {
+            "title": "KFC",
+            "adress": "Шоссейная ул., 2, корп. 3, Москва, этаж 2",
+            "lat": 37.727732,
+            "lon": 55.692416
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 333,
+        "fields": {
+            "title": "KFC",
+            "adress": "Ключевая ул., 6, корп. 1, Москва, этаж 2",
+            "lat": 37.757888,
+            "lon": 55.63763
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 334,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Ленина, 1А, Реутов, этаж 2",
+            "lat": 37.858199,
+            "lon": 55.752915
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 335,
+        "fields": {
+            "title": "KFC",
+            "adress": "Михалковская ул., 4, Москва, этаж 2",
+            "lat": 37.537305,
+            "lon": 55.837255
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 336,
+        "fields": {
+            "title": "KFC",
+            "adress": "Ленинградский просп., 36, Москва, этаж 1",
+            "lat": 37.561378,
+            "lon": 55.791449
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 337,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Генерала Кузнецова, 22, Москва, этаж 3",
+            "lat": 37.854818,
+            "lon": 55.68578
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 338,
+        "fields": {
+            "title": "KFC",
+            "adress": "7-я Кожуховская ул., 9, Москва, этаж 3",
+            "lat": 37.674954,
+            "lon": 55.71005
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 339,
+        "fields": {
+            "title": "KFC",
+            "adress": "Пролетарский просп., 2А, Москва",
+            "lat": 37.656496,
+            "lon": 55.6486
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 340,
+        "fields": {
+            "title": "KFC",
+            "adress": "Комсомольская площадь, 2, Москва",
+            "lat": 37.656698,
+            "lon": 55.773405
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 341,
+        "fields": {
+            "title": "KFC",
+            "adress": "Братиславская ул., 12, Москва",
+            "lat": 37.753492,
+            "lon": 55.659852
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 342,
+        "fields": {
+            "title": "KFC",
+            "adress": "Саянская ул., 10А, Москва",
+            "lat": 37.830222,
+            "lon": 55.767124
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 343,
+        "fields": {
+            "title": "KFC",
+            "adress": "Мичуринский просп., вл27, Москва, ТЦ Тиара, этаж 1",
+            "lat": 37.499663,
+            "lon": 55.697321
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 344,
+        "fields": {
+            "title": "KFC",
+            "adress": "Пролетарский просп., вл30, Москва, этаж 1",
+            "lat": 37.659344,
+            "lon": 55.631388
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 345,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Орджоникидзе, 11, стр. 1, Москва, подъезд 5",
+            "lat": 37.595956,
+            "lon": 55.707085
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 346,
+        "fields": {
+            "title": "KFC",
+            "adress": "Вешняковская ул., 18, Москва, ТЦ «Вешняки»",
+            "lat": 37.825166,
+            "lon": 55.724027
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 347,
+        "fields": {
+            "title": "KFC",
+            "adress": "Ленинградский просп., 62А, Москва, этаж 2",
+            "lat": 37.531287,
+            "lon": 55.801747
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 348,
+        "fields": {
+            "title": "KFC",
+            "adress": "Открытое ш., вл9, Москва, ТЦ Подсолнухи",
+            "lat": 37.737615,
+            "lon": 55.815544
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 349,
+        "fields": {
+            "title": "KFC",
+            "adress": "площадь Киевского Вокзала, 2, Москва, ТЦ Европейский, этаж 4",
+            "lat": 37.56626,
+            "lon": 55.744128
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 350,
+        "fields": {
+            "title": "KFC",
+            "adress": "Можайское ш., 39, Москва",
+            "lat": 37.414124,
+            "lon": 55.717317
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 351,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Хлобыстова, вл7, Москва",
+            "lat": 37.81551,
+            "lon": 55.716037
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 352,
+        "fields": {
+            "title": "KFC",
+            "adress": "Варшавское ш., 5, стр. 2, Москва",
+            "lat": 37.6219,
+            "lon": 55.701172
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 353,
+        "fields": {
+            "title": "KFC",
+            "adress": "Ленинградское ш., 71Б, стр. 2, Москва",
+            "lat": 37.449906,
+            "lon": 55.876863
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 354,
+        "fields": {
+            "title": "KFC",
+            "adress": "Автозаводская ул., 18, Москва, этаж 3",
+            "lat": 37.638332,
+            "lon": 55.704752
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 355,
+        "fields": {
+            "title": "KFC",
+            "adress": "Багратионовский пр., 7, корп. 2, Москва, этаж 1",
+            "lat": 37.50087,
+            "lon": 55.741946
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 356,
+        "fields": {
+            "title": "KFC",
+            "adress": "Москва, поселение Московский, Киевское шоссе, 23-й километр, 1, этаж 2",
+            "lat": 37.42238,
+            "lon": 55.624654
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 357,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Яблочкова, 21, стр. 3, Москва, этаж 2",
+            "lat": 37.577757,
+            "lon": 55.819288
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 358,
+        "fields": {
+            "title": "KFC",
+            "adress": "Большая Тульская ул., 13, Москва, этаж 3",
+            "lat": 37.621933,
+            "lon": 55.709269
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 359,
+        "fields": {
+            "title": "KFC",
+            "adress": "Борисовский пр., вл46А, Москва",
+            "lat": 37.729852,
+            "lon": 55.613515
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 360,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Сущёвский Вал, 5, стр. 9, Москва, этаж 1",
+            "lat": 37.59263,
+            "lon": 55.795526
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 361,
+        "fields": {
+            "title": "KFC",
+            "adress": "МКАД, 2-й километр, 2, Реутов, этаж 4",
+            "lat": 37.844273,
+            "lon": 55.762676
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 362,
+        "fields": {
+            "title": "KFC",
+            "adress": "Зелёный просп., 62А, Москва, ТЦ Шангал, этаж 2",
+            "lat": 37.821173,
+            "lon": 55.750774
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 363,
+        "fields": {
+            "title": "KFC",
+            "adress": "Болотниковская ул., 12, Москва",
+            "lat": 37.608147,
+            "lon": 55.656631
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 364,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Миклухо-Маклая, 47А, Москва, этаж 2",
+            "lat": 37.524448,
+            "lon": 55.643593
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 365,
+        "fields": {
+            "title": "KFC",
+            "adress": "Багратионовский пр., 5, Москва, этаж 3",
+            "lat": 37.508166,
+            "lon": 55.744356
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 366,
+        "fields": {
+            "title": "KFC",
+            "adress": "Дмитровское ш., 89, Москва, этаж 2",
+            "lat": 37.54479,
+            "lon": 55.864035
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 367,
+        "fields": {
+            "title": "KFC",
+            "adress": "М-4 Дон, 28-й километр, 13",
+            "lat": 37.710465,
+            "lon": 55.515393
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 368,
+        "fields": {
+            "title": "KFC",
+            "adress": "Ходынский бул., 2, Москва",
+            "lat": 37.536823,
+            "lon": 55.789391
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 369,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Менжинского, 32, Москва, этаж 2",
+            "lat": 37.665982,
+            "lon": 55.869788
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 370,
+        "fields": {
+            "title": "KFC",
+            "adress": "Малая Юшуньская ул., 1, корп. 1, Москва, этаж 2",
+            "lat": 37.594415,
+            "lon": 55.652707
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 371,
+        "fields": {
+            "title": "KFC",
+            "adress": "Большая Семёновская ул., 20, Москва, этаж 3",
+            "lat": 37.704916,
+            "lon": 55.781833
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 372,
+        "fields": {
+            "title": "KFC",
+            "adress": "Носовихинское ш., 45, Реутов, ТРЦ Реутов Парк, этаж 1",
+            "lat": 37.886645,
+            "lon": 55.751682
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 373,
+        "fields": {
+            "title": "KFC",
+            "adress": "Профсоюзная ул., 118, Москва, этаж 2",
+            "lat": 37.520915,
+            "lon": 55.63585
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 374,
+        "fields": {
+            "title": "KFC",
+            "adress": "Бирюлёвская ул., 26А, Москва",
+            "lat": 37.662643,
+            "lon": 55.594742
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 375,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Гарибальди, 23, Москва, этаж 2",
+            "lat": 37.55458,
+            "lon": 55.671391
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 376,
+        "fields": {
+            "title": "KFC",
+            "adress": "3-я Парковая ул., 57, Москва, этаж 1",
+            "lat": 37.781471,
+            "lon": 55.805486
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 377,
+        "fields": {
+            "title": "KFC",
+            "adress": "Кожевническая ул., 10, стр. 1, Москва",
+            "lat": 37.645559,
+            "lon": 55.729311
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 378,
+        "fields": {
+            "title": "KFC",
+            "adress": "Ленинский просп., 123В, Москва, этаж 2",
+            "lat": 37.482075,
+            "lon": 55.647602
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 379,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Кирова, 2, Люберцы",
+            "lat": 37.860446,
+            "lon": 55.691171
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 380,
+        "fields": {
+            "title": "KFC",
+            "adress": "ш. Энтузиастов, 63Б, Москва",
+            "lat": 37.835623,
+            "lon": 55.776226
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 381,
+        "fields": {
+            "title": "KFC",
+            "adress": "Краснобогатырская ул., 13, Москва",
+            "lat": 37.693862,
+            "lon": 55.815247
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 382,
+        "fields": {
+            "title": "KFC",
+            "adress": "Ключевая ул., 6, корп. 1, Москва",
+            "lat": 37.757353,
+            "lon": 55.637733
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 383,
+        "fields": {
+            "title": "KFC",
+            "adress": "20, микрорайон ЦОВБ, Балашиха",
+            "lat": 37.877411,
+            "lon": 55.784558
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 384,
+        "fields": {
+            "title": "KFC",
+            "adress": "Нагорный пр., 2Б, Москва",
+            "lat": 37.618184,
+            "lon": 55.689699
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 385,
+        "fields": {
+            "title": "KFC",
+            "adress": "Москва, поселение Московский, Киевское шоссе, 22-й километр, вл4блокБ, подъезд 5",
+            "lat": 37.442064,
+            "lon": 55.633868
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 386,
+        "fields": {
+            "title": "KFC",
+            "adress": "Можайское ш., 45А, Москва",
+            "lat": 37.407699,
+            "lon": 55.716478
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 387,
+        "fields": {
+            "title": "KFC",
+            "adress": "Ленинградский просп., 76А, Москва, этаж 3",
+            "lat": 37.514745,
+            "lon": 55.805673
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 388,
+        "fields": {
+            "title": "KFC",
+            "adress": "бул. Маршала Рокоссовского, 31, Москва, этаж 1",
+            "lat": 37.715042,
+            "lon": 55.815698
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 389,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Покрышкина, 2, корп. 1, Москва, этаж 1",
+            "lat": 37.482069,
+            "lon": 55.66396
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 390,
+        "fields": {
+            "title": "KFC",
+            "adress": "Святоозёрская ул., 1А, Москва, этаж 2",
+            "lat": 37.883446,
+            "lon": 55.714498
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 391,
+        "fields": {
+            "title": "KFC",
+            "adress": "Щукинская ул., 42, Москва, этаж 4",
+            "lat": 37.463436,
+            "lon": 55.809613
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 392,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Миклухо-Маклая, 11, Москва",
+            "lat": 37.501218,
+            "lon": 55.653559
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 393,
+        "fields": {
+            "title": "KFC",
+            "adress": "Рождественская ул., 3, микрорайон Железнодорожный, Балашиха, этаж 2",
+            "lat": 38.000891,
+            "lon": 55.742996
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 394,
+        "fields": {
+            "title": "KFC",
+            "adress": "Боровское ш., 6, Москва, этаж 2",
+            "lat": 37.400964,
+            "lon": 55.658673
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 395,
+        "fields": {
+            "title": "KFC",
+            "adress": "Большая Тульская ул., 11, Москва, этаж 1",
+            "lat": 37.624294,
+            "lon": 55.710079
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 396,
+        "fields": {
+            "title": "KFC",
+            "adress": "Каширское ш., 14, Москва, этаж 3",
+            "lat": 37.627443,
+            "lon": 55.664556
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 397,
+        "fields": {
+            "title": "KFC",
+            "adress": "Часовая ул., 13, Москва",
+            "lat": 37.528249,
+            "lon": 55.808532
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 398,
+        "fields": {
+            "title": "KFC",
+            "adress": "Коммунистическая ул., 10, корп. 1, Мытищи",
+            "lat": 37.744384,
+            "lon": 55.891325
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 399,
+        "fields": {
+            "title": "KFC",
+            "adress": "Сигнальный пр., 17, Москва, этаж 1",
+            "lat": 37.598666,
+            "lon": 55.85111
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 400,
+        "fields": {
+            "title": "KFC",
+            "adress": "Комсомольская площадь, 5, Москва",
+            "lat": 37.658118,
+            "lon": 55.776497
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 401,
+        "fields": {
+            "title": "KFC",
+            "adress": "Каскадная ул., 21, Москва",
+            "lat": 37.871805,
+            "lon": 55.708728
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 402,
+        "fields": {
+            "title": "KFC",
+            "adress": "просп. Андропова, 1, Москва, этаж 2",
+            "lat": 37.677021,
+            "lon": 55.693816
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 403,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Баженова, 2А, Жуковский",
+            "lat": 38.081711,
+            "lon": 55.604563
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 404,
+        "fields": {
+            "title": "KFC",
+            "adress": "Фестивальная ул., 13, корп. 1, Москва, этаж 2",
+            "lat": 37.47671,
+            "lon": 55.855387
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 405,
+        "fields": {
+            "title": "KFC",
+            "adress": "Симферопольское ш., 1А, стр. 2, Щербинка",
+            "lat": 37.575842,
+            "lon": 55.514119
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 406,
+        "fields": {
+            "title": "KFC",
+            "adress": "просп. Андропова, 22, Москва, этаж 3",
+            "lat": 37.660939,
+            "lon": 55.682696
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 407,
+        "fields": {
+            "title": "KFC",
+            "adress": "Измайловское ш., 71, Москва",
+            "lat": 37.752026,
+            "lon": 55.789595
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 408,
+        "fields": {
+            "title": "KFC",
+            "adress": "площадь Савёловского Вокзала, 2, Москва, этаж 1",
+            "lat": 37.58769,
+            "lon": 55.794317
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 409,
+        "fields": {
+            "title": "KFC",
+            "adress": "Ельнинская ул., 23, Москва, этаж 1",
+            "lat": 37.417209,
+            "lon": 55.740606
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 410,
+        "fields": {
+            "title": "KFC",
+            "adress": "Матвеевская ул., 2, Москва, этаж 2",
+            "lat": 37.479232,
+            "lon": 55.705083
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 411,
+        "fields": {
+            "title": "KFC",
+            "adress": "Огородный пр., 14, Москва",
+            "lat": 37.601685,
+            "lon": 55.814278
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 412,
+        "fields": {
+            "title": "KFC",
+            "adress": "просп. Андропова, 8, Москва, этаж 3",
+            "lat": 37.664983,
+            "lon": 55.696198
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 413,
+        "fields": {
+            "title": "KFC",
+            "adress": "МКАД, 47-й километр, вл31с1, этаж 1",
+            "lat": 37.428853,
+            "lon": 55.660174
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 414,
+        "fields": {
+            "title": "KFC",
+            "adress": "Ленинградское шоссе, 23-й километр, вл36, Химки",
+            "lat": 37.407612,
+            "lon": 55.908962
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 415,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Мичуринский Проспект, Олимпийская Деревня, 3, корп. 1, Москва, ТЦ Фестиваль, этаж 3",
+            "lat": 37.466806,
+            "lon": 55.677775
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 416,
+        "fields": {
+            "title": "KFC",
+            "adress": "Кировоградская ул., 24А, Москва",
+            "lat": 37.603421,
+            "lon": 55.612171
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 417,
+        "fields": {
+            "title": "KFC",
+            "adress": "Верхняя Красносельская ул., 3А, Москва, этаж 3",
+            "lat": 37.664693,
+            "lon": 55.786137
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 418,
+        "fields": {
+            "title": "KFC",
+            "adress": "Шереметьевская ул., 20, Москва, этаж 3",
+            "lat": 37.618447,
+            "lon": 55.802766
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 419,
+        "fields": {
+            "title": "KFC",
+            "adress": "Вешняковская ул., 17А, Москва, ТЦ Океан",
+            "lat": 37.830547,
+            "lon": 55.734767
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 420,
+        "fields": {
+            "title": "KFC",
+            "adress": "1-й Покровский пр., 1, Котельники, ТЦ Мега Белая дача, этаж 1",
+            "lat": 37.846989,
+            "lon": 55.657679
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 421,
+        "fields": {
+            "title": "KFC",
+            "adress": "Международная ул., 12, Красногорск, этаж 2",
+            "lat": 37.385892,
+            "lon": 55.82152
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 422,
+        "fields": {
+            "title": "KFC",
+            "adress": "Каширское ш., 26, Москва, этаж 3",
+            "lat": 37.647356,
+            "lon": 55.653748
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 423,
+        "fields": {
+            "title": "KFC",
+            "adress": "Снежная ул., 27, Москва",
+            "lat": 37.652979,
+            "lon": 55.855835
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 424,
+        "fields": {
+            "title": "KFC",
+            "adress": "МКАД, 66-й километр, 1, Москва, этаж 2",
+            "lat": 37.383934,
+            "lon": 55.81012
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 425,
+        "fields": {
+            "title": "KFC",
+            "adress": "Бирюлёвская ул., 43, Москва",
+            "lat": 37.666426,
+            "lon": 55.586488
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 426,
+        "fields": {
+            "title": "KFC",
+            "adress": "2-я Останкинская ул., 3, Москва",
+            "lat": 37.628328,
+            "lon": 55.826438
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 427,
+        "fields": {
+            "title": "KFC",
+            "adress": "пр. Стратонавтов, 9, корп. 2, Москва",
+            "lat": 37.436364,
+            "lon": 55.827065
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 428,
+        "fields": {
+            "title": "KFC",
+            "adress": "МКАД, 38-й километр, 6А, стр. 1, Москва",
+            "lat": 37.512189,
+            "lon": 55.596676
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 429,
+        "fields": {
+            "title": "KFC",
+            "adress": "Флотская ул., 7, стр. 1, Москва, подъезд 1, этаж 3",
+            "lat": 37.496603,
+            "lon": 55.854103
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 430,
+        "fields": {
+            "title": "KFC",
+            "adress": "Инженерная ул., 1, Москва, этаж 1",
+            "lat": 37.58236,
+            "lon": 55.879116
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 431,
+        "fields": {
+            "title": "KFC",
+            "adress": "Шоссейная ул., 34, Москва",
+            "lat": 37.722781,
+            "lon": 55.682438
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 432,
+        "fields": {
+            "title": "KFC",
+            "adress": "Локомотивный пр., 4, Москва, этаж 3",
+            "lat": 37.57722,
+            "lon": 55.838416
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 433,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Марьинский Парк, 12, Москва, этаж 1",
+            "lat": 37.781019,
+            "lon": 55.660786
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 434,
+        "fields": {
+            "title": "KFC",
+            "adress": "Москва, поселение Внуковское, квартал № 6",
+            "lat": 37.3356,
+            "lon": 55.6347
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 435,
+        "fields": {
+            "title": "KFC",
+            "adress": "Щёлковское ш., 141Б, Балашиха",
+            "lat": 37.942203,
+            "lon": 55.833935
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 436,
+        "fields": {
+            "title": "KFC",
+            "adress": "Владимирская ул., 114, Балашиха",
+            "lat": 38.060218,
+            "lon": 55.807152
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 437,
+        "fields": {
+            "title": "KFC",
+            "adress": "Калининградская ул., 11, Королёв",
+            "lat": 37.845396,
+            "lon": 55.913448
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 438,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Лётчика Бабушкина, 30, стр. 1, Москва",
+            "lat": 37.676861,
+            "lon": 55.870152
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 439,
+        "fields": {
+            "title": "KFC",
+            "adress": "Октябрьский просп., 112, Люберцы, этаж 3",
+            "lat": 37.877075,
+            "lon": 55.685486
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 440,
+        "fields": {
+            "title": "KFC",
+            "adress": "бул. Дмитрия Донского, 2, корп. 1, Москва",
+            "lat": 37.575832,
+            "lon": 55.57019
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 441,
+        "fields": {
+            "title": "KFC",
+            "adress": "вл41, микрорайон 1 Мая, Балашиха",
+            "lat": 37.840967,
+            "lon": 55.803975
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 442,
+        "fields": {
+            "title": "KFC",
+            "adress": "Рублёвское ш., 62, Москва, этаж 2",
+            "lat": 37.380751,
+            "lon": 55.766258
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 443,
+        "fields": {
+            "title": "KFC",
+            "adress": "Ярцевская ул., 25А, Москва, павильон 307, этаж 3",
+            "lat": 37.414895,
+            "lon": 55.741196
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 444,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Героев Панфиловцев, 1А, Москва, этаж цокольный",
+            "lat": 37.438625,
+            "lon": 55.851629
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 445,
+        "fields": {
+            "title": "KFC",
+            "adress": "Ярославское ш., 54, Москва, этаж 2",
+            "lat": 37.703758,
+            "lon": 55.865537
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 446,
+        "fields": {
+            "title": "KFC",
+            "adress": "Советская ул., 9, микрорайон Железнодорожный, Балашиха, этаж 4",
+            "lat": 38.011387,
+            "lon": 55.751624
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 447,
+        "fields": {
+            "title": "KFC",
+            "adress": "Новоясеневский просп., 1, корп. 1, Москва, этаж 4",
+            "lat": 37.50637,
+            "lon": 55.619382
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 448,
+        "fields": {
+            "title": "KFC",
+            "adress": "Ореховый бул., 45, корп. 1, Москва, этаж 2",
+            "lat": 37.743614,
+            "lon": 55.614413
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 449,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Октября, вл10, Реутов, этаж 4",
+            "lat": 37.859774,
+            "lon": 55.752087
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 450,
+        "fields": {
+            "title": "KFC",
+            "adress": "Варшавское ш., 152А, Москва, этаж 2",
+            "lat": 37.598795,
+            "lon": 55.594716
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 451,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Дыбенко, 7/1, Москва, этаж 3",
+            "lat": 37.47873,
+            "lon": 55.878581
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 452,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Авиаторов, 3А, Москва, этаж 2",
+            "lat": 37.397011,
+            "lon": 55.643265
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 453,
+        "fields": {
+            "title": "KFC",
+            "adress": "просп. Мира, 211, корп. 2, Москва",
+            "lat": 37.661157,
+            "lon": 55.845868
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 454,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Зои и Александра Космодемьянских, 23, Москва, этаж 1",
+            "lat": 37.518016,
+            "lon": 55.823793
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 455,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Бунинская Аллея, 7, Москва, этаж 1",
+            "lat": 37.515364,
+            "lon": 55.536159
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 456,
+        "fields": {
+            "title": "KFC",
+            "adress": "площадь Киевского Вокзала, 2, Москва",
+            "lat": 37.563433,
+            "lon": 55.742801
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 457,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Гагарина, 60А, Жуковский",
+            "lat": 38.088256,
+            "lon": 55.610747
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 458,
+        "fields": {
+            "title": "KFC",
+            "adress": "Ярославское ш., 114, Москва",
+            "lat": 37.706716,
+            "lon": 55.866684
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 459,
+        "fields": {
+            "title": "KFC",
+            "adress": "Профсоюзная ул., 61А, Москва, этаж 2",
+            "lat": 37.541339,
+            "lon": 55.656277
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 460,
+        "fields": {
+            "title": "KFC",
+            "adress": "Варшавское ш., 160, Москва, этаж 1",
+            "lat": 37.595516,
+            "lon": 55.58272
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 461,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Ленина, 2, Красногорск, этаж 1",
+            "lat": 37.32047,
+            "lon": 55.819764
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 462,
+        "fields": {
+            "title": "KFC",
+            "adress": "Фестивальная ул., 2Б, Москва, этаж 3",
+            "lat": 37.47659,
+            "lon": 55.854366
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 463,
+        "fields": {
+            "title": "KFC",
+            "adress": "Станционная площадь, 21, Королёв",
+            "lat": 37.859329,
+            "lon": 55.927015
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 464,
+        "fields": {
+            "title": "KFC",
+            "adress": "1-й Покровский пр., 5, Котельники, ТЦ Мега Белая дача, этаж 1",
+            "lat": 37.845202,
+            "lon": 55.654369
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 465,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Колонцова, 5, стр. 1, Мытищи, этаж 1",
+            "lat": 37.763138,
+            "lon": 55.91413
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 466,
+        "fields": {
+            "title": "KFC",
+            "adress": "9, 2-й Лохинский посёлок, этаж 2",
+            "lat": 37.303007,
+            "lon": 55.690801
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 467,
+        "fields": {
+            "title": "KFC",
+            "adress": "Кутузовский просп., 57, Москва, этаж 3",
+            "lat": 37.4777,
+            "lon": 55.728077
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 468,
+        "fields": {
+            "title": "KFC",
+            "adress": "Кронштадтский бул., 3А, Москва, этаж 2",
+            "lat": 37.485066,
+            "lon": 55.840986
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 469,
+        "fields": {
+            "title": "KFC",
+            "adress": "Московская область, городской округ Истра, Новорижское шоссе, 43-й километр",
+            "lat": 37.018415,
+            "lon": 55.818205
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 470,
+        "fields": {
+            "title": "KFC",
+            "adress": "Варшавское ш., 97, Москва, ТЦ Ритейл-парк, этаж 2",
+            "lat": 37.623589,
+            "lon": 55.633429
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 471,
+        "fields": {
+            "title": "KFC",
+            "adress": "Ореховый бул., 14, корп. 3, Москва, этаж 3",
+            "lat": 37.720325,
+            "lon": 55.610022
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 472,
+        "fields": {
+            "title": "KFC",
+            "adress": "Заречная ул., 29, д. Марусино",
+            "lat": 37.971344,
+            "lon": 55.6933
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 473,
+        "fields": {
+            "title": "KFC",
+            "adress": "МКАД, 74-й километр, вл4с1, Москва",
+            "lat": 37.424385,
+            "lon": 55.876471
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 474,
+        "fields": {
+            "title": "KFC",
+            "adress": "Ходынский бул., 4, Москва, этаж 4",
+            "lat": 37.530862,
+            "lon": 55.790844
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 475,
+        "fields": {
+            "title": "KFC",
+            "adress": "Большая Черёмушкинская ул., 1, Москва, этаж 3",
+            "lat": 37.60136,
+            "lon": 55.690362
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 476,
+        "fields": {
+            "title": "KFC",
+            "adress": "Новоухтомское ш., 2А, Москва",
+            "lat": 37.844785,
+            "lon": 55.713127
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 477,
+        "fields": {
+            "title": "KFC",
+            "adress": "Ходынский бул., 4, Москва, этаж 4",
+            "lat": 37.530862,
+            "lon": 55.790844
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 478,
+        "fields": {
+            "title": "KFC",
+            "adress": "Большая Черёмушкинская ул., 1, Москва, этаж 3",
+            "lat": 37.60136,
+            "lon": 55.690362
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 479,
+        "fields": {
+            "title": "KFC",
+            "adress": "Советская ул., 52, Щёлково",
+            "lat": 37.993247,
+            "lon": 55.919308
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 480,
+        "fields": {
+            "title": "KFC",
+            "adress": "Староватутинский пр., 14, Москва, этаж 3",
+            "lat": 37.665838,
+            "lon": 55.875501
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 481,
+        "fields": {
+            "title": "KFC",
+            "adress": "Ореховый бул., 15, Москва, этаж 3",
+            "lat": 37.720241,
+            "lon": 55.612855
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 482,
+        "fields": {
+            "title": "KFC",
+            "adress": "МКАД, 24-й километр, 1, посёлок Совхоза имени Ленина, этаж 2",
+            "lat": 37.724105,
+            "lon": 55.585142
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 483,
+        "fields": {
+            "title": "KFC",
+            "adress": "Кировоградская ул., 14, Москва, этаж 2",
+            "lat": 37.605661,
+            "lon": 55.622923
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 484,
+        "fields": {
+            "title": "KFC",
+            "adress": "Семёновская площадь, 1, Москва, этаж 3",
+            "lat": 37.721538,
+            "lon": 55.78301
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 485,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Декабристов, 12, Москва, этаж 2",
+            "lat": 37.60117,
+            "lon": 55.863218
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 486,
+        "fields": {
+            "title": "KFC",
+            "adress": "ш. Энтузиастов, 6А, Балашиха",
+            "lat": 37.880547,
+            "lon": 55.786286
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 487,
+        "fields": {
+            "title": "KFC",
+            "adress": "Варшавское ш., 87А, Москва, этаж 3",
+            "lat": 37.621054,
+            "lon": 55.653402
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 488,
+        "fields": {
+            "title": "KFC",
+            "adress": "Олимпийская ул., 6, корп. 1, Видное, эт. 3",
+            "lat": 37.699465,
+            "lon": 55.545761
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 489,
+        "fields": {
+            "title": "KFC",
+            "adress": "Новоясеневский просп., 11, Москва, этаж 2",
+            "lat": 37.536002,
+            "lon": 55.606296
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 490,
+        "fields": {
+            "title": "KFC",
+            "adress": "Профсоюзная ул., 56, Москва, этаж 4",
+            "lat": 37.552606,
+            "lon": 55.669799
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 491,
+        "fields": {
+            "title": "KFC",
+            "adress": "Люблинская ул., 169, корп. 2, Москва, этаж 3",
+            "lat": 37.745131,
+            "lon": 55.649275
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 492,
+        "fields": {
+            "title": "KFC",
+            "adress": "Осташковское ш., 1, Мытищи",
+            "lat": 37.666018,
+            "lon": 55.897793
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 493,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Перерва, 43, корп. 1, Москва, этаж 2",
+            "lat": 37.749191,
+            "lon": 55.6596
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 494,
+        "fields": {
+            "title": "KFC",
+            "adress": "Знаменская ул., 5, квартал Коммунальный, Красногорск, подъезд 1, этаж 3",
+            "lat": 37.346571,
+            "lon": 55.819048
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 495,
+        "fields": {
+            "title": "KFC",
+            "adress": "Краснопресненская наб., 16, стр. 1, Москва",
+            "lat": 37.543721,
+            "lon": 55.748246
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 496,
+        "fields": {
+            "title": "KFC",
+            "adress": "Митинская ул., 40, Москва, этаж 2",
+            "lat": 37.360057,
+            "lon": 55.847572
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 497,
+        "fields": {
+            "title": "KFC",
+            "adress": "Варшавское ш., 26, Москва",
+            "lat": 37.622216,
+            "lon": 55.683884
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 498,
+        "fields": {
+            "title": "KFC",
+            "adress": "Киевское шоссе, 22-й километр, дв4с1кБ, этаж 1",
+            "lat": 37.441928,
+            "lon": 55.633842
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 499,
+        "fields": {
+            "title": "KFC",
+            "adress": "Люблинская ул., 153, Москва, этаж 2",
+            "lat": 37.742262,
+            "lon": 55.658694
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 500,
+        "fields": {
+            "title": "KFC",
+            "adress": "Булатниковская ул., 2А, Москва, этаж 1",
+            "lat": 37.652078,
+            "lon": 55.580455
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 501,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Миклухо-Маклая, 32А, Москва, этаж 2",
+            "lat": 37.531422,
+            "lon": 55.640561
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 502,
+        "fields": {
+            "title": "KFC",
+            "adress": "Большая Тульская ул., 11, Москва, этаж 1-2",
+            "lat": 37.62418,
+            "lon": 55.709988
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 503,
+        "fields": {
+            "title": "KFC",
+            "adress": "М-1 Беларусь, 35-й километр, 2",
+            "lat": 37.138599,
+            "lon": 55.622644
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 504,
+        "fields": {
+            "title": "KFC",
+            "adress": "Московская ул., 14А, Химки, этаж 1, 2",
+            "lat": 37.449708,
+            "lon": 55.894196
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 505,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Пришвина, 22, Москва, этаж 2",
+            "lat": 37.601759,
+            "lon": 55.885471
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 506,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Плещеева, 4, Москва",
+            "lat": 37.605936,
+            "lon": 55.883903
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 507,
+        "fields": {
+            "title": "KFC",
+            "adress": "Алтуфьевское ш., 86, корп. 1, Москва, павильон 201А, этаж 2",
+            "lat": 37.588136,
+            "lon": 55.897842
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 508,
+        "fields": {
+            "title": "KFC",
+            "adress": "Ленинский просп., 109, Москва, этаж 4",
+            "lat": 37.511725,
+            "lon": 55.6643
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 509,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Каховка, 29А, Москва, этаж 4",
+            "lat": 37.569907,
+            "lon": 55.656296
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 510,
+        "fields": {
+            "title": "KFC",
+            "adress": "Люблинская ул., 169, корп. 2, Москва",
+            "lat": 37.744855,
+            "lon": 55.649107
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 511,
+        "fields": {
+            "title": "KFC",
+            "adress": "Каширское ш., 61Г, Москва, этаж 4",
+            "lat": 37.713319,
+            "lon": 55.621681
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 512,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Дружбы, 1А, Химки, этаж 1",
+            "lat": 37.409435,
+            "lon": 55.899004
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 513,
+        "fields": {
+            "title": "KFC",
+            "adress": "Комсомольская площадь, 5, Москва",
+            "lat": 37.658016,
+            "lon": 55.776386
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 514,
+        "fields": {
+            "title": "KFC",
+            "adress": "Аминьевское ш., 6, Москва, этаж 4",
+            "lat": 37.45757,
+            "lon": 55.706891
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 515,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Некрасова, 27, Апрелевка",
+            "lat": 37.055058,
+            "lon": 55.533606
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 516,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Хабарова, 2, Московский, подъезд 4",
+            "lat": 37.350375,
+            "lon": 55.593071
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 517,
+        "fields": {
+            "title": "KFC",
+            "adress": "Севастопольский просп., 11Е, Москва, этаж 3",
+            "lat": 37.604463,
+            "lon": 55.687485
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 518,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Покрышкина, 4, Москва, этаж 3",
+            "lat": 37.481442,
+            "lon": 55.664899
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 519,
+        "fields": {
+            "title": "KFC",
+            "adress": "МКАД, 53-й километр, вл110, Москва, гипермаркет Ашан Марфино",
+            "lat": 37.385082,
+            "lon": 55.707075
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 520,
+        "fields": {
+            "title": "KFC",
+            "adress": "Новоясеневский просп., 7, Москва, этаж 3",
+            "lat": 37.532646,
+            "lon": 55.608083
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 521,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Миклухо-Маклая, 11, Москва",
+            "lat": 37.501672,
+            "lon": 55.653444
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 522,
+        "fields": {
+            "title": "KFC",
+            "adress": "Хорошёвский пр., 14, село Немчиновка, этаж 3",
+            "lat": 37.379694,
+            "lon": 55.720575
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 523,
+        "fields": {
+            "title": "KFC",
+            "adress": "Головинское ш., 5А, Москва",
+            "lat": 37.491007,
+            "lon": 55.840224
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 524,
+        "fields": {
+            "title": "KFC",
+            "adress": "Ленинградское ш., вл5, Химки, этаж 2",
+            "lat": 37.434394,
+            "lon": 55.888691
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 525,
+        "fields": {
+            "title": "KFC",
+            "adress": "Старокачаловская ул., 5А, Москва, этаж 2",
+            "lat": 37.579049,
+            "lon": 55.56994
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 526,
+        "fields": {
+            "title": "KFC",
+            "adress": "МКАД, 71-й километр, 16А, д. Путилково, этаж 2",
+            "lat": 37.395002,
+            "lon": 55.859236
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 527,
+        "fields": {
+            "title": "KFC",
+            "adress": "Поречная ул., 10, Москва, этаж 4",
+            "lat": 37.771523,
+            "lon": 55.649623
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 528,
+        "fields": {
+            "title": "KFC",
+            "adress": "Пятницкое ш., 39, Москва, Мандарин, этаж цокольный",
+            "lat": 37.355372,
+            "lon": 55.855106
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 529,
+        "fields": {
+            "title": "KFC",
+            "adress": "МКАД, 41-й километр, с1, Москва, этаж 2",
+            "lat": 37.491869,
+            "lon": 55.603585
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 530,
+        "fields": {
+            "title": "KFC",
+            "adress": "Новослободская ул., 7А, д. Соболиха",
+            "lat": 38.039661,
+            "lon": 55.723813
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 531,
+        "fields": {
+            "title": "KFC",
+            "adress": "Венёвская ул., 6, Москва, этаж 3",
+            "lat": 37.543447,
+            "lon": 55.547781
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 532,
+        "fields": {
+            "title": "KFC",
+            "adress": "Шараповский пр., вл2, Мытищи, этаж 3",
+            "lat": 37.759356,
+            "lon": 55.916691
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 533,
+        "fields": {
+            "title": "KFC",
+            "adress": "Пролетарский просп., 10, Щёлково, этаж 1",
+            "lat": 38.001266,
+            "lon": 55.923477
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 534,
+        "fields": {
+            "title": "KFC",
+            "adress": "Осташковское ш., 59, д. Бородино",
+            "lat": 37.664725,
+            "lon": 55.921501
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 535,
+        "fields": {
+            "title": "KFC",
+            "adress": "Ленинградское ш., 16А, стр. 4, Москва, ТРЦ Метрополис, этаж 3",
+            "lat": 37.497287,
+            "lon": 55.822658
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 536,
+        "fields": {
+            "title": "KFC",
+            "adress": "МКАД, 71-й километр, 1, Москва",
+            "lat": 37.397111,
+            "lon": 55.86498
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 537,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Мира, с51, Мытищи, этаж 2",
+            "lat": 37.708688,
+            "lon": 55.918557
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 538,
+        "fields": {
+            "title": "KFC",
+            "adress": "Ярцевская ул., 19, Москва, этаж 4",
+            "lat": 37.410331,
+            "lon": 55.738
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 539,
+        "fields": {
+            "title": "KFC",
+            "adress": "Советская ул., 1, рабочий посёлок Быково",
+            "lat": 38.070198,
+            "lon": 55.625617
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 540,
+        "fields": {
+            "title": "KFC",
+            "adress": "Щёлковское ш., 75, Москва",
+            "lat": 37.800116,
+            "lon": 55.811102
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 541,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Генерала Кузнецова, 22, Москва",
+            "lat": 37.854003,
+            "lon": 55.685881
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 542,
+        "fields": {
+            "title": "KFC",
+            "adress": "просп. Вернадского, 86А, Москва, Avenue South-West, этаж 5",
+            "lat": 37.480737,
+            "lon": 55.662929
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 543,
+        "fields": {
+            "title": "KFC",
+            "adress": "Кольцевая ул., 3К2, микрорайон Янтарный, Балашиха",
+            "lat": 37.875595,
+            "lon": 55.822677
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 544,
+        "fields": {
+            "title": "KFC",
+            "adress": "Лихачёвский просп., 64, Долгопрудный, этаж 1",
+            "lat": 37.494668,
+            "lon": 55.931
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 545,
+        "fields": {
+            "title": "KFC",
+            "adress": "Московская область, Новорижское шоссе, 43-й километр",
+            "lat": 37.017679,
+            "lon": 55.816861
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 546,
+        "fields": {
+            "title": "KFC",
+            "adress": "Москва, поселение Московский, Киевское шоссе, 22-й километр, вл4блокБ",
+            "lat": 37.437305,
+            "lon": 55.634854
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 547,
+        "fields": {
+            "title": "KFC",
+            "adress": "Планерная ул., 7, Москва, этаж 2",
+            "lat": 37.434822,
+            "lon": 55.863583
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 548,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Говорова, 163, Одинцово",
+            "lat": 37.30408,
+            "lon": 55.690809
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 549,
+        "fields": {
+            "title": "KFC",
+            "adress": "Вокзальная ул., 4Б, Раменское, ТЦ Солнечный",
+            "lat": 38.225862,
+            "lon": 55.565996
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 550,
+        "fields": {
+            "title": "KFC",
+            "adress": "Дубравная ул., 34/29, Москва, этаж 2",
+            "lat": 37.35872,
+            "lon": 55.846355
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 551,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Горчакова, 11, Москва",
+            "lat": 37.532018,
+            "lon": 55.543417
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 552,
+        "fields": {
+            "title": "KFC",
+            "adress": "Большой бул., 40, Западный административный округ, Можайский район, Инновационный центр Сколково, Москва",
+            "lat": 37.347366,
+            "lon": 55.696056
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 553,
+        "fields": {
+            "title": "KFC",
+            "adress": "Азовская ул., 24, корп. 3, Москва, этаж 3",
+            "lat": 37.594762,
+            "lon": 55.647524
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 554,
+        "fields": {
+            "title": "KFC",
+            "adress": "Молодёжная ул., 5А, рабочий посёлок Обухово",
+            "lat": 38.259126,
+            "lon": 55.828564
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 555,
+        "fields": {
+            "title": "KFC",
+            "adress": "Москва, поселение Внуковское, квартал № 30, 1, стр. 1",
+            "lat": 37.26983,
+            "lon": 55.622239
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 556,
+        "fields": {
+            "title": "KFC",
+            "adress": "Правобережная ул., 1Б, Москва, этаж 2",
+            "lat": 37.448436,
+            "lon": 55.880564
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 557,
+        "fields": {
+            "title": "KFC",
+            "adress": "Дмитровское ш., 163А, Москва, ТРЦ \"Рио\", этаж 2",
+            "lat": 37.540453,
+            "lon": 55.908702
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 558,
+        "fields": {
+            "title": "KFC",
+            "adress": "Театральный пр., 5, стр. 2, Центральный административный округ, Тверской район, Москва",
+            "lat": 37.62446,
+            "lon": 55.760277
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 559,
+        "fields": {
+            "title": "KFC",
+            "adress": "Волковское ш., 36, Мытищи",
+            "lat": 37.678416,
+            "lon": 55.916454
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 560,
+        "fields": {
+            "title": "KFC",
+            "adress": "Сходненская ул., 56, Москва, этаж 4",
+            "lat": 37.444039,
+            "lon": 55.85007
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 561,
+        "fields": {
+            "title": "KFC",
+            "adress": "Парковая ул., с2, Лыткарино",
+            "lat": 37.91242,
+            "lon": 55.58243
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 562,
+        "fields": {
+            "title": "KFC",
+            "adress": "площадь Савёловского Вокзала, 2, стр. 10, Москва",
+            "lat": 37.587852,
+            "lon": 55.794883
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 563,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Дыбенко, 7/1, Москва",
+            "lat": 37.478819,
+            "lon": 55.878905
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 564,
+        "fields": {
+            "title": "KFC",
+            "adress": "Новоясеневский просп., 1, Москва, этаж 2",
+            "lat": 37.509767,
+            "lon": 55.619763
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 565,
+        "fields": {
+            "title": "KFC",
+            "adress": "Старо-Нагорная ул., 20, Видное",
+            "lat": 37.689626,
+            "lon": 55.566608
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 566,
+        "fields": {
+            "title": "KFC",
+            "adress": "Спортивная ул., 2, рабочий посёлок Селятино",
+            "lat": 36.986598,
+            "lon": 55.52067
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 567,
+        "fields": {
+            "title": "KFC",
+            "adress": "Институтская ул., 27А, микрорайон Щёлково-3, Щёлково, этаж 1",
+            "lat": 38.061973,
+            "lon": 55.900861
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 568,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Кирова, 19, стр. 1, Старая Купавна",
+            "lat": 38.183014,
+            "lon": 55.802895
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 569,
+        "fields": {
+            "title": "KFC",
+            "adress": "Школьная ул., 2, рабочий посёлок Нахабино",
+            "lat": 37.145826,
+            "lon": 55.841707
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 570,
+        "fields": {
+            "title": "KFC",
+            "adress": "Москва, поселение Воскресенское, Чечёрский проезд, 51, этаж 3",
+            "lat": 37.517592,
+            "lon": 55.524777
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 571,
+        "fields": {
+            "title": "KFC",
+            "adress": "1, район Новокуркино, 8-й микрорайон, Химки, этаж 2",
+            "lat": 37.396752,
+            "lon": 55.911547
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 572,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Строителей, 1, рабочий посёлок Свердловский",
+            "lat": 38.144699,
+            "lon": 55.901773
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 573,
+        "fields": {
+            "title": "KFC",
+            "adress": "Варшавское ш., 140, стр. 6, Москва, этаж 3",
+            "lat": 37.605364,
+            "lon": 55.612756
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 574,
+        "fields": {
+            "title": "KFC",
+            "adress": "Ленинградское ш., 16А, стр. 4, Москва, этаж 3",
+            "lat": 37.497301,
+            "lon": 55.82266
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 575,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Селезнёва, 33, Мытищи, этаж 2",
+            "lat": 37.727238,
+            "lon": 55.891739
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 576,
+        "fields": {
+            "title": "KFC",
+            "adress": "Коммунистическая ул., 1, Мытищи, этаж 2",
+            "lat": 37.749677,
+            "lon": 55.891548
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 577,
+        "fields": {
+            "title": "KFC",
+            "adress": "Алтуфьевское шоссе, 1-й километр, вл3с1, Москва, этаж 2",
+            "lat": 37.58547,
+            "lon": 55.912603
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 578,
+        "fields": {
+            "title": "KFC",
+            "adress": "Пролетарская ул., 2А, село Юдино",
+            "lat": 37.183468,
+            "lon": 55.661715
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 579,
+        "fields": {
+            "title": "KFC",
+            "adress": "вл3с1, торгово-промышленная зона Алтуфьево, посёлок Вёшки, ТЦ Ашан",
+            "lat": 37.571271,
+            "lon": 55.912448
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 580,
+        "fields": {
+            "title": "KFC",
+            "adress": "Фестивальная ул., 2А, Москва, этаж 2",
+            "lat": 37.475966,
+            "lon": 55.854259
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 581,
+        "fields": {
+            "title": "KFC",
+            "adress": "Варшавское ш., 140, Москва, этаж 3",
+            "lat": 37.606985,
+            "lon": 55.611477
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 582,
+        "fields": {
+            "title": "KFC",
+            "adress": "МКАД, 2-й километр, 2, Москва",
+            "lat": 37.844859,
+            "lon": 55.764327
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 583,
+        "fields": {
+            "title": "KFC",
+            "adress": "Москва, поселение Московский, Киевское шоссе, 22-й километр, 4с1кБ",
+            "lat": 37.442047,
+            "lon": 55.633861
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 584,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Красного Маяка, 2Б, Москва, этаж 2",
+            "lat": 37.607147,
+            "lon": 55.61119
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 585,
+        "fields": {
+            "title": "KFC",
+            "adress": "Берёзовая аллея, 1/10, Краснознаменск",
+            "lat": 37.023611,
+            "lon": 55.605154
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 586,
+        "fields": {
+            "title": "KFC",
+            "adress": "Профсоюзная ул., 129А, Москва, ТЦ Принц Плаза",
+            "lat": 37.506946,
+            "lon": 55.618983
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 587,
+        "fields": {
+            "title": "KFC",
+            "adress": "Августовская ул., 14, Апрелевка, ТЦ Мелодия, эт. 1",
+            "lat": 37.068288,
+            "lon": 55.549746
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 588,
+        "fields": {
+            "title": "KFC",
+            "adress": "Московская ул., 14А, Химки",
+            "lat": 37.449714,
+            "lon": 55.894226
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 589,
+        "fields": {
+            "title": "KFC",
+            "adress": "Школьная ул., 8, Электроугли",
+            "lat": 38.213955,
+            "lon": 55.715707
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 590,
+        "fields": {
+            "title": "KFC",
+            "adress": "МКАД, 84-й километр, вл3с1, Москва",
+            "lat": 37.571271,
+            "lon": 55.912448
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 591,
+        "fields": {
+            "title": "KFC",
+            "adress": "Привокзальная площадь, 5, Голицыно",
+            "lat": 36.987898,
+            "lon": 55.616248
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 592,
+        "fields": {
+            "title": "KFC",
+            "adress": "Путилковское ш., 117, д. Путилково",
+            "lat": 37.384181,
+            "lon": 55.859272
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 593,
+        "fields": {
+            "title": "KFC",
+            "adress": "бул. Дмитрия Донского, 2, корп. 1, Москва",
+            "lat": 37.575832,
+            "lon": 55.57019
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 594,
+        "fields": {
+            "title": "KFC",
+            "adress": "Московская ул., 18Б, дачный посёлок Снегири",
+            "lat": 37.032742,
+            "lon": 55.887902
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 595,
+        "fields": {
+            "title": "KFC",
+            "adress": "к2, район Новокуркино, 8-й микрорайон, Химки",
+            "lat": 37.398186,
+            "lon": 55.909837
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 596,
+        "fields": {
+            "title": "KFC",
+            "adress": "МКАД, 71-й километр, 1, Москва",
+            "lat": 37.396653,
+            "lon": 55.864111
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 597,
+        "fields": {
+            "title": "KFC",
+            "adress": "МКАД, 55-й километр, 1, Москва, ТРЦ Кунцево",
+            "lat": 37.380154,
+            "lon": 55.720298
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 598,
+        "fields": {
+            "title": "KFC",
+            "adress": "Шереметьевское ш., вл2с1, Химки, Аэропорт Шереметьево",
+            "lat": 37.414237,
+            "lon": 55.963555
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 599,
+        "fields": {
+            "title": "KFC",
+            "adress": "Больничная ул., 10А, рабочий посёлок Селятино",
+            "lat": 36.975363,
+            "lon": 55.512236
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 600,
+        "fields": {
+            "title": "KFC",
+            "adress": "Пятницкое шоссе, 7-й километр, вл2, ТП Отрада, этаж 1",
+            "lat": 37.331215,
+            "lon": 55.877094
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 601,
+        "fields": {
+            "title": "KFC",
+            "adress": "Фестивальная ул., 2А, Москва",
+            "lat": 37.475854,
+            "lon": 55.854032
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 602,
+        "fields": {
+            "title": "KFC",
+            "adress": "30А, посёлок Горки-10, эт. 2",
+            "lat": 37.020813,
+            "lon": 55.706317
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 603,
+        "fields": {
+            "title": "KFC",
+            "adress": "ул. Кирова, 19, Старая Купавна",
+            "lat": 38.182361,
+            "lon": 55.802543
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 604,
+        "fields": {
+            "title": "KFC",
+            "adress": "Московская область, городской округ Истра, Новорижское шоссе, 43-й километр",
+            "lat": 37.017503,
+            "lon": 55.817127
+        }
+    },
+    {
+        "model": "list_rest.restaurant",
+        "pk": 605,
+        "fields": {
+            "title": "KFC",
+            "adress": "Юбилейный пр., вл5с4, микрорайон Сходня, Химки",
+            "lat": 37.306156,
+            "lon": 55.94458
+        }
+    }
+]
