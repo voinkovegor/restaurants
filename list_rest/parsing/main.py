@@ -74,7 +74,7 @@ urls = {
 def main():
     pk = [1]
     for name, url in urls.items():
-        # get_source_html(url, name)
+        get_source_html(url, name)
         get_data(f'restaurants/list_rest/parsing/{name}_source-page.html', name, pk)
 
 
