@@ -19,9 +19,15 @@ list_near_cities = {
 }
 
 # Ограничение по названию и вхождению только в г. Москва, т.к. в модель попали лишние
-burger = Restaurant.objects.filter(Q(title='Бургер Кинг') & ~Q(adress__contains='область') & ~Q(adress__in=list_near_cities)).values('title', 'adress')
-kfc = Restaurant.objects.filter(Q(title='KFC') & ~Q(adress__contains='область') & ~Q(adress__in=list_near_cities)).values('title', 'adress')
-vkusno = Restaurant.objects.filter(Q(title='Вкусно — и точка') & ~Q(adress__contains='область') & ~Q(adress__in=list_near_cities)).values('title', 'adress')
+burger = Restaurant.objects.filter(Q(title='Бургер Кинг') & ~Q(adress__contains='область'))
+kfc = Restaurant.objects.filter(Q(title='KFC') & ~Q(adress__contains='область'))
+vkusno = Restaurant.objects.filter(Q(title='Вкусно — и точка') & ~Q(adress__contains='область'))
+
+for i in list_near_cities:
+    burger = burger.exclude(adress__contains=i).values('title', 'adress')
+    kfc = kfc.exclude(adress__contains=i).values('title', 'adress')
+    vkusno = vkusno.exclude(adress__contains=i).values('title', 'adress')
+
 
 
 print(f'Количество ресторанов "Бургер Кинг" в г. Москва: {len(burger)}')
