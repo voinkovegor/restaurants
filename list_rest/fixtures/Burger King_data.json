@@ -1,2512 +1,2010 @@
 [
     {
-        "model": "list_rest.restaurant",
-        "pk": 1,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Таганская ул., 2, этаж 1, 2",
-            "lat": 37.657624,
-            "lon": 55.740771
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 2,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "ул. Большая Полянка, 28, корп. 1, этаж 2",
-            "lat": 37.6186,
-            "lon": 55.736
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 3,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "ул. Земляной Вал, 26, стр. 1",
-            "lat": 37.657273,
-            "lon": 55.75823
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 4,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Большая Серпуховская ул., 6/5, этаж 1",
-            "lat": 37.623999,
-            "lon": 55.72889
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 5,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Комсомольская площадь, 2А",
-            "lat": 37.657302,
-            "lon": 55.775284
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 6,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Павелецкая площадь, 1А, стр. 1, Москва, этаж 1",
-            "lat": 37.640887,
-            "lon": 55.729979
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 7,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Москва, Манежная площадь, этаж -3",
-            "lat": 37.613729,
-            "lon": 55.755426
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 8,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Авиамоторная ул., 41Б",
-            "lat": 37.716585,
-            "lon": 55.753395
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 9,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "1-я Останкинская ул., 57, этаж 1",
-            "lat": 37.63482,
-            "lon": 55.823712
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 10,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "к1, Юго-Восточный административный округ, район Кузьминки, Волжский Бульвар квартал 113А, этаж 1-2",
-            "lat": 37.752241,
-            "lon": 55.700026
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 11,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "ул. Красная Пресня, 4, Зоопарк",
-            "lat": 37.575893,
-            "lon": 55.761199
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 12,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Театральный пр., 5, стр. 2, Центральный административный округ, Тверской район, этаж 6",
-            "lat": 37.625567,
-            "lon": 55.760189
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 13,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "ул. Мастеркова, 2",
-            "lat": 37.657139,
-            "lon": 55.710034
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 14,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "ул. Воздвиженка, 9, стр. 2, этаж 2",
-            "lat": 37.603518,
-            "lon": 55.752621
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 15,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Зубовский бул., 17, стр. 1, Москва",
-            "lat": 37.590856,
-            "lon": 55.73622
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 16,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Преображенская площадь, 6",
-            "lat": 37.711499,
-            "lon": 55.794975
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 17,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Цветной бул., 13",
-            "lat": 37.620032,
-            "lon": 55.77049
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 18,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "площадь Киевского Вокзала, 2, этаж 4",
-            "lat": 37.566725,
-            "lon": 55.744727
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 19,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "просп. Мира, 39, стр. 2, этаж 1",
-            "lat": 37.631721,
-            "lon": 55.781044
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 20,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Панкратьевский пер., 2",
-            "lat": 37.63306,
-            "lon": 55.771735
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 21,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "площадь Тверская Застава, 7, стр. 1, Москва, подъезд 1",
-            "lat": 37.581548,
-            "lon": 55.776631
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 22,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Бутырская ул., 6",
-            "lat": 37.584898,
-            "lon": 55.79582
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 23,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "ул. Земляной Вал, 33, этаж 4",
-            "lat": 37.659566,
-            "lon": 55.756932
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 24,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Открытое ш., 5А",
-            "lat": 37.733665,
-            "lon": 55.814102
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 25,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Спартаковская ул., 24, этаж цокольный",
-            "lat": 37.676943,
-            "lon": 55.772573
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 26,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "9-я Парковая ул., 68, корп. 1, Москва",
-            "lat": 37.799089,
-            "lon": 55.808605
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 27,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Садовая-Кудринская ул., 3А, Москва, этаж 1",
-            "lat": 37.5844,
-            "lon": 55.7601
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 28,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Пресненская наб., 2, Москва, этаж 4",
-            "lat": 37.538983,
-            "lon": 55.748835
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 29,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Измайловское ш., 69Д, Москва, ТЦ Альбатрос, этаж 1",
-            "lat": 37.74825,
-            "lon": 55.788506
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 30,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Комсомольская площадь, 5, Москва, этаж 1",
-            "lat": 37.65668,
-            "lon": 55.777044
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 31,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Большая Тульская ул., 2, Москва, этаж 2",
-            "lat": 37.621022,
-            "lon": 55.710602
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 32,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Москва, поселение Московский, Киевское шоссе, 22-й километр, 4А, стр. 1",
-            "lat": 37.442742,
-            "lon": 55.633912
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 33,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "просп. Вернадского, 6, Москва, этаж 3",
-            "lat": 37.527401,
-            "lon": 55.6917
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 34,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "1-й Угрешский пр., 11, Москва",
-            "lat": 37.690521,
-            "lon": 55.716955
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 35,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "ул. Народного Ополчения, 47, корп. 1, стр. 1, Москва",
-            "lat": 37.492492,
-            "lon": 55.793313
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 36,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Сокольническая площадь, 9А, Москва, этаж 2",
-            "lat": 37.680073,
-            "lon": 55.790076
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 37,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "ш. Энтузиастов, 12, корп. 2, Москва, этаж 3",
-            "lat": 37.706063,
-            "lon": 55.748145
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 38,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Покровская ул., 20, Москва, этаж 1",
-            "lat": 37.931698,
-            "lon": 55.701899
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 39,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "ш. Энтузиастов, 6А, Западная коммунальная зона, Балашиха",
-            "lat": 37.882,
-            "lon": 55.7865
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 40,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "6А, посёлок Совхоза имени Ленина",
-            "lat": 37.736582,
-            "lon": 55.586215
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 41,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Дмитровское ш., 13А, Москва",
-            "lat": 37.573588,
-            "lon": 55.818429
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 42,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "ул. Лобачевского, 19, Москва",
-            "lat": 37.482208,
-            "lon": 55.678029
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 43,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Новорязанское ш., 1А, Люберцы, этаж 1",
-            "lat": 37.85801,
-            "lon": 55.676404
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 44,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Зелёный просп., 62, Москва, этаж 1",
-            "lat": 37.819533,
-            "lon": 55.750963
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 45,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "ул. Барклая, 10А, Москва",
-            "lat": 37.499605,
-            "lon": 55.742538
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 46,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Люблинская ул., 92, корп. 2, Москва",
-            "lat": 37.739787,
-            "lon": 55.65895
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 47,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "ул. Вавилова, 3, Москва, этаж 3",
-            "lat": 37.594058,
-            "lon": 55.706077
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 48,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "7-я Кожуховская ул., 9, Москва, этаж 3",
-            "lat": 37.675588,
-            "lon": 55.710232
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 49,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "просп. Вернадского, 14А, Москва, этаж 1",
-            "lat": 37.507174,
-            "lon": 55.677941
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 50,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Варшавское ш., 95, корп. 1, Москва, этаж 1",
-            "lat": 37.620914,
-            "lon": 55.640131
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 51,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Страстной бул., 6, стр. 1, Москва",
-            "lat": 37.608488,
-            "lon": 55.765772
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 52,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Щёлковское ш., вл3А, Балашиха",
-            "lat": 37.915513,
-            "lon": 55.829773
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 53,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Краснодарская ул., 51, корп. 2, Москва, этаж 1",
-            "lat": 37.765569,
-            "lon": 55.676791
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 54,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Огородный пр., 10, Москва",
-            "lat": 37.603814,
-            "lon": 55.813142
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 55,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Рязанский просп., 2, корп. 2, Москва, этаж 2",
-            "lat": 37.731443,
-            "lon": 55.730021
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 56,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Малая Филёвская ул., 13, Москва",
-            "lat": 37.467176,
-            "lon": 55.736244
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 57,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "ул. Измайловский Вал, 2, Москва, этаж 2",
-            "lat": 37.719119,
-            "lon": 55.78342
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 58,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "МКАД, 60-й километр, 4А, Москва",
-            "lat": 37.371595,
-            "lon": 55.767005
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 59,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Лермонтовский просп., 19, корп. 1, Москва",
-            "lat": 37.854568,
-            "lon": 55.700602
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 60,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Первомайская ул., 42, корп. 4, Москва",
-            "lat": 37.786223,
-            "lon": 55.792758
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 61,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Профсоюзная ул., 56, Москва, этаж 4",
-            "lat": 37.553518,
-            "lon": 55.670108
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 62,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "ул. Сущёвский Вал, 5, стр. 8, Москва",
-            "lat": 37.592143,
-            "lon": 55.795642
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 63,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Каширское ш., 14, Москва, этаж 3",
-            "lat": 37.626792,
-            "lon": 55.664324
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 64,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Вешняковская ул., 18, Москва, этаж 4",
-            "lat": 37.824571,
-            "lon": 55.72408
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 65,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Лухмановская ул., 2, Москва, этаж 1",
-            "lat": 37.898258,
-            "lon": 55.711522
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 66,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Ленинградский просп., 76А, Москва, этаж 3",
-            "lat": 37.514707,
-            "lon": 55.805797
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 67,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Ярославское ш., 69, Москва, этаж 1",
-            "lat": 37.704133,
-            "lon": 55.86711
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 68,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "просп. Андропова, 22, Москва, этаж 3",
-            "lat": 37.661666,
-            "lon": 55.682812
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 69,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "просп. Андропова, 8, Москва, этаж 3",
-            "lat": 37.664928,
-            "lon": 55.695653
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 70,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "93А, д. Медвежьи Озёра",
-            "lat": 37.983327,
-            "lon": 55.858698
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 71,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "58, квартал Щитниково, Балашиха, этаж 1",
-            "lat": 37.851119,
-            "lon": 55.817713
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 72,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "ул. Сущёвский Вал, 31, стр. 1, Москва, ТЦ Оливье, этаж 1",
-            "lat": 37.603922,
-            "lon": 55.793141
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 73,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Боровское ш., вл2, Москва",
-            "lat": 37.407701,
-            "lon": 55.660137
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 74,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Хорошёвское ш., 27, Москва, этаж 4",
-            "lat": 37.524373,
-            "lon": 55.777096
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 75,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Угрешский пр., 2А, Котельники",
-            "lat": 37.845255,
-            "lon": 55.640316
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 76,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "МКАД, 28-й километр, 2, Москва",
-            "lat": 37.674007,
-            "lon": 55.572701
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 77,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Ленинградский просп., 36, Москва, этаж 1",
-            "lat": 37.561475,
-            "lon": 55.791504
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 78,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Варшавское ш., 153, Москва",
-            "lat": 37.5971,
-            "lon": 55.5775
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 79,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "11, микрорайон Опытное Поле, Котельники, этаж 1",
-            "lat": 37.861134,
-            "lon": 55.673232
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 80,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Носовихинское ш., 25, корп. 1Б, микрорайон Керамик, Балашиха",
-            "lat": 37.967295,
-            "lon": 55.749968
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 81,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Балаклавский просп., 5А, стр. 11, Москва, этаж 1",
-            "lat": 37.608863,
-            "lon": 55.640229
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 82,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "просп. Мира, 92, стр. 2, Москва, этаж 2",
-            "lat": 37.636118,
-            "lon": 55.793362
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 83,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Московская область, городской округ Красногорск, Новорижское шоссе, 7-й километр, с1, этаж 1",
-            "lat": 37.279576,
-            "lon": 55.799515
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 84,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Ярцевская ул., 19, Москва, этаж 4",
-            "lat": 37.410244,
-            "lon": 55.738022
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 85,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Шереметьевская ул., 6, корп. 1, Москва, этаж 4",
-            "lat": 37.617484,
-            "lon": 55.794534
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 86,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Октябрьский просп., 146, Люберцы, этаж 1",
-            "lat": 37.889222,
-            "lon": 55.68009
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 87,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Профсоюзная ул., 102, стр. 1, Москва, этаж 1",
-            "lat": 37.526152,
-            "lon": 55.643428
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 88,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "ул. Удальцова, 42, Москва",
-            "lat": 37.491292,
-            "lon": 55.683402
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 89,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Кировоградская ул., 9, корп. 4, Москва, этаж 1",
-            "lat": 37.609722,
-            "lon": 55.621751
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 90,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Верхняя Красносельская ул., 3А, Москва, этаж 3",
-            "lat": 37.664065,
-            "lon": 55.785962
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 91,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Егорьевское ш., 2А, рабочий посёлок Томилино",
-            "lat": 37.921225,
-            "lon": 55.658452
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 92,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "просп. Вернадского, 86Б, Москва, этаж 2",
-            "lat": 37.481692,
-            "lon": 55.661852
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 93,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "ул. Пришвина, 26, Москва, этаж 1",
-            "lat": 37.603599,
-            "lon": 55.884699
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 94,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Строгинский бул., 1, Москва, этаж 2",
-            "lat": 37.3953,
-            "lon": 55.806
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 95,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Литовский бул., 22, Москва",
-            "lat": 37.537547,
-            "lon": 55.611959
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 96,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Западная ул., с4, рабочий посёлок Новоивановское",
-            "lat": 37.359953,
-            "lon": 55.70808
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 97,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Люблинская ул., 169, корп. 2, Москва, этаж 3",
-            "lat": 37.744924,
-            "lon": 55.648956
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 98,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "ш. Энтузиастов, 80, Балашиха, ТЦ МаксСити",
-            "lat": 37.987437,
-            "lon": 55.79842
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 99,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "МКАД, 23-й километр, внешняя сторона, вл3, Москва",
-            "lat": 37.738877,
-            "lon": 55.595198
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 100,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Павелецкая площадь, 3, Москва",
-            "lat": 37.638195,
-            "lon": 55.730331
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 101,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Кутузовский просп., 57, Москва, этаж 3",
-            "lat": 37.477716,
-            "lon": 55.727988
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 102,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "ш. Энтузиастов, 54А, Балашиха, этаж 3",
-            "lat": 37.96245,
-            "lon": 55.795772
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 103,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Можайское ш., 71, Одинцово",
-            "lat": 37.281194,
-            "lon": 55.677766
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 104,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Дмитровское ш., 89, Москва, этаж 2",
-            "lat": 37.545304,
-            "lon": 55.86393
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 105,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Хорошёвский пр., 14, село Немчиновка, этаж 2",
-            "lat": 37.380641,
-            "lon": 55.719589
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 106,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Каширское ш., 61Г, Москва, этаж 4",
-            "lat": 37.713245,
-            "lon": 55.621836
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 107,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "ул. Адмирала Макарова, 6, стр. 13, Москва",
-            "lat": 37.4902,
-            "lon": 55.8357
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 108,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Багратионовский пр., 5, Москва, этаж 3",
-            "lat": 37.508323,
-            "lon": 55.743727
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 109,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Елецкая ул., 15, Москва, этаж 2",
-            "lat": 37.733579,
-            "lon": 55.60729
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 110,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Бирюлёвская ул., 51, Москва, этаж 1",
-            "lat": 37.670806,
-            "lon": 55.582703
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 111,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "ул. Дыбенко, 7/1, Москва",
-            "lat": 37.47899,
-            "lon": 55.8786
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 112,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Енисейская ул., 19, корп. 1, Москва, этаж 3",
-            "lat": 37.663071,
-            "lon": 55.869326
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 113,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Большая Черёмушкинская ул., 1, Москва, этаж 3",
-            "lat": 37.601619,
-            "lon": 55.690233
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 114,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Автозаводская ул., 18, Москва, этаж 3",
-            "lat": 37.638165,
-            "lon": 55.704782
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 115,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Шереметьевская ул., 20, Москва, этаж 3",
-            "lat": 37.618044,
-            "lon": 55.802749
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 116,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "4, микрорайон 1 Мая, Балашиха",
-            "lat": 37.8412,
-            "lon": 55.8093
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 117,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Широкая ул., 13А, Москва, этаж -1",
-            "lat": 37.662485,
-            "lon": 55.887981
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 118,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Фестивальная ул., 2Б, Москва, этаж 3",
-            "lat": 37.477184,
-            "lon": 55.854127
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 119,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Севастопольский просп., 11Е, Москва, этаж 3",
-            "lat": 37.604466,
-            "lon": 55.68741
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 120,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Международная ул., 12, Красногорск, этаж 3",
-            "lat": 37.385691,
-            "lon": 55.821089
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 121,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Варшавское ш., 87А, Москва, этаж 3",
-            "lat": 37.621055,
-            "lon": 55.653339
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 122,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Большая Тульская ул., 13, Москва, этаж 3",
-            "lat": 37.621965,
-            "lon": 55.709484
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 123,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Азовская ул., 24, корп. 3, Москва, этаж 3",
-            "lat": 37.594968,
-            "lon": 55.64774
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 124,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Тушинская ул., 17, Москва, этаж 3",
-            "lat": 37.4447,
-            "lon": 55.826628
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 125,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Ленинградская ул., с24с1, Химки",
-            "lat": 37.427147,
-            "lon": 55.896934
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 126,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Лазоревый пр., 1А, корп. 3, Москва",
-            "lat": 37.637925,
-            "lon": 55.847313
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 127,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Московская область, Быковское шоссе, 90А",
-            "lat": 37.97765,
-            "lon": 55.631138
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 128,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "МКАД, 33-й километр, 6, стр. 1, Москва",
-            "lat": 37.589257,
-            "lon": 55.578057
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 129,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Ленинский просп., 123В, Москва, этаж 2",
-            "lat": 37.481896,
-            "lon": 55.647566
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 130,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "ул. Ленина, 4, рабочий посёлок Октябрьский",
-            "lat": 37.973616,
-            "lon": 55.61179
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 131,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Молодёжная ул., 8, Химки",
-            "lat": 37.41871,
-            "lon": 55.881859
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 132,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Профсоюзная ул., 126, корп. 2, Москва, ТЦ Коньково-Пассаж, этаж 1",
-            "lat": 37.5175,
-            "lon": 55.6311
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 133,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Ленинградское ш., вл5, Химки, этаж 1",
-            "lat": 37.433464,
-            "lon": 55.888305
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 134,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Новоясеневский просп., 11, Москва, этаж 2",
-            "lat": 37.53627,
-            "lon": 55.606393
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 135,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Центральная ул., 121, д. Островцы",
-            "lat": 38.0047,
-            "lon": 55.5906
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 136,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Снежная ул., 27, Москва, этаж 3",
-            "lat": 37.65313,
-            "lon": 55.856068
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 137,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Москва, поселение Внуковское, улица Лётчика Ульянина, 5, этаж 1",
-            "lat": 37.306341,
-            "lon": 55.625661
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 138,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Локомотивный пр., 4, Москва, этаж 3",
-            "lat": 37.577566,
-            "lon": 55.838133
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 139,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Варшавское ш., 160, Москва, ТЦ Галерея Атлантис, этаж 1",
-            "lat": 37.594879,
-            "lon": 55.583006
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 140,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "пр. Дежнёва, 21, Москва, этаж 2",
-            "lat": 37.638071,
-            "lon": 55.870566
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 141,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Киевское шоссе, 23-й километр, 1, этаж 2",
-            "lat": 37.422193,
-            "lon": 55.624603
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 142,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "ул. Игоря Мерлушкина, 5, Красногорск",
-            "lat": 37.266,
-            "lon": 55.8351
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 143,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "МКАД, 87-й километр, 8, Москва, этаж 3",
-            "lat": 37.629857,
-            "lon": 55.89855
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 144,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "ул. Побратимов, 7, Люберцы, этаж 3",
-            "lat": 37.897078,
-            "lon": 55.692021
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 145,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Озёрная ул., 115, посёлок дома отдыха Озёра, коттеджный посёлок Довиль, ТЦ Конфитюр, этаж 1",
-            "lat": 37.254756,
-            "lon": 55.649753
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 146,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "МКАД, 2-й километр, 2, Реутов, этаж 4",
-            "lat": 37.84501,
-            "lon": 55.762718
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 147,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "ул. Маршала Катукова, 23, Москва",
-            "lat": 37.413252,
-            "lon": 55.80552
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 148,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Дмитровское ш., 73, стр. 2, Москва, этаж 2",
-            "lat": 37.558128,
-            "lon": 55.856544
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 149,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "ул. Орджоникидзе, 11, стр. 1А, Москва",
-            "lat": 37.595567,
-            "lon": 55.707049
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 150,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "ул. Федосьино, 12, Москва",
-            "lat": 37.337319,
-            "lon": 55.637943
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 151,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "ул. Каховка, 29А, Москва, этаж 4",
-            "lat": 37.569397,
-            "lon": 55.656276
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 152,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Сухановская ул., 1, стр. 1, рабочий посёлок Лопатино",
-            "lat": 37.640743,
-            "lon": 55.535348
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 153,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "8, корп. 1, жилой комплекс Бутово Парк, рабочий посёлок Бутово, помещение 1, этаж 3",
-            "lat": 37.586417,
-            "lon": 55.545983
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 154,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Октябрьский просп., 112, Люберцы, этаж 3",
-            "lat": 37.877783,
-            "lon": 55.685442
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 155,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "2-я Рейсовая ул., 2, корп. 5, посёлок Внуково, Внуково аэропорт, терминал А, этаж 2",
-            "lat": 37.284588,
-            "lon": 55.604117
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 156,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Новопетровская ул., 6, Москва, этаж 3",
-            "lat": 37.516183,
-            "lon": 55.825741
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 157,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "просп. Королёва, 6Г, Королёв",
-            "lat": 37.839122,
-            "lon": 55.920703
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 158,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Старо-Нагорная ул., 24, Видное",
-            "lat": 37.69105,
-            "lon": 55.567284
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 159,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Бартеневская ул., 12, Москва",
-            "lat": 37.528751,
-            "lon": 55.551865
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 160,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Алтуфьевское ш., 8, Москва, этаж 3",
-            "lat": 37.5854,
-            "lon": 55.853026
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 161,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Московская область, Ленинский городской округ, Варшавское шоссе, 21-й километр, с26, этаж 1",
-            "lat": 37.609066,
-            "lon": 55.574496
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 162,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Алтуфьевское ш., 70, корп. 1, Москва, этаж 3",
-            "lat": 37.58835,
-            "lon": 55.88814
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 163,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Ленинградское ш., 16А, стр. 4, Москва, этаж 3",
-            "lat": 37.496938,
-            "lon": 55.82338
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 164,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Аминьевское ш., 6, Москва, этаж 4",
-            "lat": 37.45765,
-            "lon": 55.706604
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 165,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Планерная ул., 7, Москва, этаж 2",
-            "lat": 37.435045,
-            "lon": 55.863317
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 166,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Щёлковское ш., 100, корп. 100, Москва, этаж 3",
-            "lat": 37.831175,
-            "lon": 55.81026
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 167,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Коммунистическая ул., 1, Мытищи, этаж 2",
-            "lat": 37.749597,
-            "lon": 55.891454
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 168,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Рождественская ул., 3, микрорайон Железнодорожный, Балашиха, этаж 2",
-            "lat": 38.000748,
-            "lon": 55.742996
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 169,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "ул. Генерала Кузнецова, 22, Москва, этаж 3",
-            "lat": 37.854516,
-            "lon": 55.685921
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 170,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Профсоюзная ул., 61А, Москва, этаж 2",
-            "lat": 37.541059,
-            "lon": 55.656338
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 171,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Измайловское ш., 71А, Москва",
-            "lat": 37.752036,
-            "lon": 55.789667
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 172,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "ул. Мичуринский Проспект, Олимпийская Деревня, 3, корп. 1, Москва, ТЦ Фестиваль, этаж 3",
-            "lat": 37.466582,
-            "lon": 55.677676
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 173,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "ул. Кадырова, 1, Москва, этаж 1",
-            "lat": 37.512129,
-            "lon": 55.537218
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 174,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "просп. Ленинского Комсомола, 9, корп. 3, Видное, ТЦ УниверМАК, этаж 1",
-            "lat": 37.710257,
-            "lon": 55.546278
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 175,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Большая Грузинская ул., 1, стр. 1, Москва",
-            "lat": 37.578397,
-            "lon": 55.761101
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 176,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Митинская ул., 53, Москва",
-            "lat": 37.351582,
-            "lon": 55.853183
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 177,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Октябрьский просп., 366, Люберцы, ТРЦ Орбита, этаж 3",
-            "lat": 37.910652,
-            "lon": 55.663078
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 178,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "просп. Мира, 211, корп. 2, Москва, этаж 2",
-            "lat": 37.660963,
-            "lon": 55.846071
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 179,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "ул. Маршала Бирюзова, 32, Москва, этаж 3",
-            "lat": 37.483574,
-            "lon": 55.799565
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 180,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Ореховый бул., 45, Москва",
-            "lat": 37.742725,
-            "lon": 55.614604
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 181,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "просп. Космонавтов, 23А, Королёв",
-            "lat": 37.868363,
-            "lon": 55.915899
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 182,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "ул. Красного Маяка, 2Б, Москва, этаж 2",
-            "lat": 37.605841,
-            "lon": 55.611393
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 183,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Московская область, городской округ Красногорск, М-9 Балтия, 26-й километр, 1, этаж 1",
-            "lat": 37.23574,
-            "lon": 55.782558
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 184,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Ореховый бул., 14, корп. 3, Москва, этаж 3",
-            "lat": 37.720017,
-            "lon": 55.610211
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 185,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Боровское ш., 51, стр. 1, Москва, этаж 1",
-            "lat": 37.353067,
-            "lon": 55.637291
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 186,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Щукинская ул., 42, Москва, этаж 4",
-            "lat": 37.463678,
-            "lon": 55.809176
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 187,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "1-й Покровский пр., 1, Котельники, этаж 1",
-            "lat": 37.84691,
-            "lon": 55.657775
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 188,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "ул. Перерва, 43, корп. 1, Москва, этаж 2",
-            "lat": 37.750065,
-            "lon": 55.659934
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 189,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Профсоюзная ул., 129А, Москва, этаж 4",
-            "lat": 37.506958,
-            "lon": 55.618891
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 190,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Святоозёрская ул., 1А, Москва, этаж 2",
-            "lat": 37.883689,
-            "lon": 55.714326
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 191,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Кустанайская ул., 6, Москва, этаж 2",
-            "lat": 37.752556,
-            "lon": 55.619625
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 192,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "ул. Ленина, 2, Красногорск, этаж 1",
-            "lat": 37.320112,
-            "lon": 55.819723
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 193,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Ленинградское ш., 227, стр. 2, Москва",
-            "lat": 37.364854,
-            "lon": 55.939889
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 194,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "МКАД, 53-й километр, вл110, Москва",
-            "lat": 37.385154,
-            "lon": 55.706957
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 195,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Старокачаловская ул., 5А, Москва, этаж 2",
-            "lat": 37.578561,
-            "lon": 55.570072
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 196,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Шараповский пр., вл2, Мытищи, этаж 3",
-            "lat": 37.759134,
-            "lon": 55.916238
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 197,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Поречная ул., 10, Москва, этаж 4",
-            "lat": 37.771087,
-            "lon": 55.649324
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 198,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "1-й Покровский пр., 5, Котельники, этаж 1",
-            "lat": 37.845235,
-            "lon": 55.654524
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 199,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Правобережная ул., 1Б, Москва, этаж 2",
-            "lat": 37.448247,
-            "lon": 55.880249
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 200,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Москва, поселение Московский, МКАД, 47-й километр, вл31с1",
-            "lat": 37.428565,
-            "lon": 55.659379
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 201,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Носовихинское ш., 45, Реутов, подъезд 2",
-            "lat": 37.886947,
-            "lon": 55.751688
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 202,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Кировоградская ул., 14, Москва, этаж 2",
-            "lat": 37.606133,
-            "lon": 55.622947
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 203,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Головинское ш., 5, корп. 1, Москва, этаж 3",
-            "lat": 37.491251,
-            "lon": 55.84009
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 204,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "площадь Ленина, 2А, Щёлково, Кинотеатр Пять Звезд",
-            "lat": 37.992064,
-            "lon": 55.921234
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 205,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Центральная ул., 40, микрорайон Кучино, Балашиха",
-            "lat": 37.9556,
-            "lon": 55.7513
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 206,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Шоссейная ул., с3, д. Голиково",
-            "lat": 37.321675,
-            "lon": 55.937808
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 207,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "ш. Энтузиастов, вл11с4, Западная коммунальная зона, Балашиха, этаж 1",
-            "lat": 37.886471,
-            "lon": 55.791112
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 208,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "ул. Миклухо-Маклая, 32А, Москва, этаж 2",
-            "lat": 37.531378,
-            "lon": 55.640506
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 209,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "1, корп. 2, Южный административный округ, район Чертаново Северное, микрорайон Северное Чертаново, Москва",
-            "lat": 37.598063,
-            "lon": 55.636459
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 210,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Дмитровское ш., 163А, Москва, этаж 2",
-            "lat": 37.540023,
-            "lon": 55.908831
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 211,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "ул. Хабарова, 2, Московский, подъезд 4",
-            "lat": 37.350556,
-            "lon": 55.593103
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 212,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "ул. Декабристов, 12, Москва, этаж 2",
-            "lat": 37.601052,
-            "lon": 55.863248
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 213,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Бесединское ш., вл15, Москва, этаж 1",
-            "lat": 37.759504,
-            "lon": 55.62556
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 214,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "ул. Амет-хан Султана, 37, Жуковский",
-            "lat": 38.141704,
-            "lon": 55.581148
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 215,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "МКАД, 66-й километр, 1, Москва",
-            "lat": 37.383027,
-            "lon": 55.810238
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 216,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "МКАД, 24-й километр, 1, Москва, ТРЦ Вегас",
-            "lat": 37.7243,
-            "lon": 55.5867
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 217,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Осташковское ш., 1, Мытищи, Ашан",
-            "lat": 37.668117,
-            "lon": 55.89912
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 218,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Ходынский бул., 4, Москва, этаж 4",
-            "lat": 37.530147,
-            "lon": 55.791005
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 219,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Лихачёвский просп., 64, Долгопрудный, этаж 1",
-            "lat": 37.493965,
-            "lon": 55.931392
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 220,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "ул. Исаева, 1Б, Королёв, ТЦ Зодиак",
-            "lat": 37.858254,
-            "lon": 55.924475
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 221,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Боровское ш., 6, Москва, этаж 2",
-            "lat": 37.401113,
-            "lon": 55.658701
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 222,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "МКАД, 41-й километр, с1, Москва, этаж 2",
-            "lat": 37.49146,
-            "lon": 55.603954
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 223,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Сигнальный пр., 17, Москва, этаж 1",
-            "lat": 37.598898,
-            "lon": 55.850965
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 224,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Сходненская ул., 56, Москва, этаж 4",
-            "lat": 37.44376,
-            "lon": 55.850039
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 225,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Олимпийская ул., 6, Видное",
-            "lat": 37.698968,
-            "lon": 55.545573
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 226,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Кронштадтский бул., 3А, Москва, этаж 2",
-            "lat": 37.485129,
-            "lon": 55.840905
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 227,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "7, микрорайон Подрезково, квартал Кирилловка, Химки",
-            "lat": 37.3339,
-            "lon": 55.9625
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 228,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Дубравная ул., 34/29, Москва, этаж 2",
-            "lat": 37.358493,
-            "lon": 55.846555
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 229,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Советская ул., 9, микрорайон Железнодорожный, Балашиха, этаж 4",
-            "lat": 38.011283,
-            "lon": 55.751501
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 230,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "ул. Чугунова, 15А, Раменское",
-            "lat": 38.207452,
-            "lon": 55.57666
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 231,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "2-я Рейсовая ул., 2, корп. 5, посёлок Внуково, Терминал А, этаж 3",
-            "lat": 37.282219,
-            "lon": 55.602598
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 232,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "1, район Новокуркино, 8-й микрорайон, Химки, этаж 2",
-            "lat": 37.396518,
-            "lon": 55.911508
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 233,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "МКАД, 84-й километр, вл3с1, Москва, территория ТПЗ Алтуфьево",
-            "lat": 37.572166,
-            "lon": 55.912709
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 234,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Сентябрьская ул., 21, Апрелевка",
-            "lat": 37.069189,
-            "lon": 55.550079
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 235,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Новоясеневский просп., 1, Москва, этаж 2",
-            "lat": 37.509682,
-            "lon": 55.619869
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 236,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Знаменская ул., 5, квартал Коммунальный, Красногорск, подъезд 1, этаж 3",
-            "lat": 37.346627,
-            "lon": 55.81884
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 237,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "ул. Поляны, 8, Москва, этаж 2",
-            "lat": 37.5567,
-            "lon": 55.565742
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 238,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Варшавское ш., 140, Москва, этаж 3",
-            "lat": 37.607814,
-            "lon": 55.611343
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 239,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "ул. Мира, с51, Мытищи",
-            "lat": 37.708975,
-            "lon": 55.918545
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 240,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Люблинская ул., 153, Москва, этаж 2",
-            "lat": 37.742018,
-            "lon": 55.658996
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 241,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Ореховый бул., 22А, Москва, этаж 3",
-            "lat": 37.731491,
-            "lon": 55.611906
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 242,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Железнодорожная ул., 15, Дедовск",
-            "lat": 37.125392,
-            "lon": 55.865875
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 243,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Парковая ул., с2, Лыткарино, ТЦ Весна",
-            "lat": 37.912235,
-            "lon": 55.582497
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 244,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Пролетарский просп., 10, Щёлково",
-            "lat": 38.000994,
-            "lon": 55.924201
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 245,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Москва, поселение Воскресенское, Чечёрский проезд, 51, этаж 3",
-            "lat": 37.518087,
-            "lon": 55.525045
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 246,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "ул. Октября, вл10, Реутов, этаж 4",
-            "lat": 37.858228,
-            "lon": 55.751785
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 247,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "просп. Мира, 17А, Фрязино",
-            "lat": 38.059226,
-            "lon": 55.955609
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 248,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Спортивная ул., 2А, рабочий посёлок Селятино",
-            "lat": 36.9822,
-            "lon": 55.5139
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 249,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Алтуфьевское шоссе, 1-й километр, вл3с1, Москва, этаж 2",
-            "lat": 37.585706,
-            "lon": 55.912605
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 250,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Молодёжная ул., 2/1, Краснознаменск, ТЦ Звездный, этаж 2",
-            "lat": 37.0446,
-            "lon": 55.601248
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 251,
-        "fields": {
-            "title": "Бургер Кинг",
-            "adress": "Московская область, городской округ Красногорск, Пятницкое шоссе, 7-й километр, вл2",
-            "lat": 37.330983,
-            "lon": 55.876957
-        }
+        "title": "Бургер Кинг",
+        "adress": "Таганская ул., 2, этаж 1, 2",
+        "coord": [
+            37.657624,
+            55.740771
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "ул. Большая Полянка, 28, корп. 1, этаж 2",
+        "coord": [
+            37.6186,
+            55.736
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "ул. Земляной Вал, 26, стр. 1",
+        "coord": [
+            37.657273,
+            55.75823
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Большая Серпуховская ул., 6/5, этаж 1",
+        "coord": [
+            37.623999,
+            55.72889
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Комсомольская площадь, 2А",
+        "coord": [
+            37.657302,
+            55.775284
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Павелецкая площадь, 1А, стр. 1, Москва, этаж 1",
+        "coord": [
+            37.640887,
+            55.729979
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Москва, Манежная площадь, этаж -3",
+        "coord": [
+            37.613729,
+            55.755426
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Авиамоторная ул., 41Б",
+        "coord": [
+            37.716585,
+            55.753395
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "1-я Останкинская ул., 57, этаж 1",
+        "coord": [
+            37.63482,
+            55.823712
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "к1, Юго-Восточный административный округ, район Кузьминки, Волжский Бульвар квартал 113А, этаж 1-2",
+        "coord": [
+            37.752241,
+            55.700026
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "ул. Красная Пресня, 4, Зоопарк",
+        "coord": [
+            37.575893,
+            55.761199
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Театральный пр., 5, стр. 2, Центральный административный округ, Тверской район, этаж 6",
+        "coord": [
+            37.625567,
+            55.760189
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "ул. Мастеркова, 2",
+        "coord": [
+            37.657139,
+            55.710034
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "ул. Воздвиженка, 9, стр. 2, этаж 2",
+        "coord": [
+            37.603518,
+            55.752621
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Зубовский бул., 17, стр. 1, Москва",
+        "coord": [
+            37.590856,
+            55.73622
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Преображенская площадь, 6",
+        "coord": [
+            37.711499,
+            55.794975
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Цветной бул., 13",
+        "coord": [
+            37.620032,
+            55.77049
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "площадь Киевского Вокзала, 2, этаж 4",
+        "coord": [
+            37.566725,
+            55.744727
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "просп. Мира, 39, стр. 2, этаж 1",
+        "coord": [
+            37.631721,
+            55.781044
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Панкратьевский пер., 2",
+        "coord": [
+            37.63306,
+            55.771735
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "площадь Тверская Застава, 7, стр. 1, Москва, подъезд 1",
+        "coord": [
+            37.581548,
+            55.776631
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Бутырская ул., 6",
+        "coord": [
+            37.584898,
+            55.79582
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "ул. Земляной Вал, 33, этаж 4",
+        "coord": [
+            37.659566,
+            55.756932
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Открытое ш., 5А",
+        "coord": [
+            37.733665,
+            55.814102
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Спартаковская ул., 24, этаж цокольный",
+        "coord": [
+            37.676943,
+            55.772573
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "9-я Парковая ул., 68, корп. 1, Москва",
+        "coord": [
+            37.799089,
+            55.808605
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Садовая-Кудринская ул., 3А, Москва, этаж 1",
+        "coord": [
+            37.5844,
+            55.7601
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Пресненская наб., 2, Москва, этаж 4",
+        "coord": [
+            37.538983,
+            55.748835
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Измайловское ш., 69Д, Москва, ТЦ Альбатрос, этаж 1",
+        "coord": [
+            37.74825,
+            55.788506
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Комсомольская площадь, 5, Москва, этаж 1",
+        "coord": [
+            37.65668,
+            55.777044
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Большая Тульская ул., 2, Москва, этаж 2",
+        "coord": [
+            37.621022,
+            55.710602
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Москва, поселение Московский, Киевское шоссе, 22-й километр, 4А, стр. 1",
+        "coord": [
+            37.442742,
+            55.633912
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "просп. Вернадского, 6, Москва, этаж 3",
+        "coord": [
+            37.527401,
+            55.6917
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "1-й Угрешский пр., 11, Москва",
+        "coord": [
+            37.690521,
+            55.716955
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "ул. Народного Ополчения, 47, корп. 1, стр. 1, Москва",
+        "coord": [
+            37.492492,
+            55.793313
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Сокольническая площадь, 9А, Москва, этаж 2",
+        "coord": [
+            37.680073,
+            55.790076
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "ш. Энтузиастов, 12, корп. 2, Москва, этаж 3",
+        "coord": [
+            37.706063,
+            55.748145
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Покровская ул., 20, Москва, этаж 1",
+        "coord": [
+            37.931698,
+            55.701899
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "ш. Энтузиастов, 6А, Западная коммунальная зона, Балашиха",
+        "coord": [
+            37.882,
+            55.7865
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "6А, посёлок Совхоза имени Ленина",
+        "coord": [
+            37.736582,
+            55.586215
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Дмитровское ш., 13А, Москва",
+        "coord": [
+            37.573588,
+            55.818429
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "ул. Лобачевского, 19, Москва",
+        "coord": [
+            37.482208,
+            55.678029
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Новорязанское ш., 1А, Люберцы, этаж 1",
+        "coord": [
+            37.85801,
+            55.676404
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Зелёный просп., 62, Москва, этаж 1",
+        "coord": [
+            37.819533,
+            55.750963
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "ул. Барклая, 10А, Москва",
+        "coord": [
+            37.499605,
+            55.742538
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Люблинская ул., 92, корп. 2, Москва",
+        "coord": [
+            37.739787,
+            55.65895
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "ул. Вавилова, 3, Москва, этаж 3",
+        "coord": [
+            37.594058,
+            55.706077
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "7-я Кожуховская ул., 9, Москва, этаж 3",
+        "coord": [
+            37.675588,
+            55.710232
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "просп. Вернадского, 14А, Москва, этаж 1",
+        "coord": [
+            37.507174,
+            55.677941
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Варшавское ш., 95, корп. 1, Москва, этаж 1",
+        "coord": [
+            37.620914,
+            55.640131
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Страстной бул., 6, стр. 1, Москва",
+        "coord": [
+            37.608488,
+            55.765772
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Щёлковское ш., вл3А, Балашиха",
+        "coord": [
+            37.915513,
+            55.829773
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Краснодарская ул., 51, корп. 2, Москва, этаж 1",
+        "coord": [
+            37.765569,
+            55.676791
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Огородный пр., 10, Москва",
+        "coord": [
+            37.603814,
+            55.813142
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Рязанский просп., 2, корп. 2, Москва, этаж 2",
+        "coord": [
+            37.731443,
+            55.730021
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Малая Филёвская ул., 13, Москва",
+        "coord": [
+            37.467176,
+            55.736244
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "ул. Измайловский Вал, 2, Москва, этаж 2",
+        "coord": [
+            37.719119,
+            55.78342
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "МКАД, 60-й километр, 4А, Москва",
+        "coord": [
+            37.371595,
+            55.767005
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Лермонтовский просп., 19, корп. 1, Москва",
+        "coord": [
+            37.854568,
+            55.700602
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Первомайская ул., 42, корп. 4, Москва",
+        "coord": [
+            37.786223,
+            55.792758
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Профсоюзная ул., 56, Москва, этаж 4",
+        "coord": [
+            37.553518,
+            55.670108
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "ул. Сущёвский Вал, 5, стр. 8, Москва",
+        "coord": [
+            37.592143,
+            55.795642
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Каширское ш., 14, Москва, этаж 3",
+        "coord": [
+            37.626792,
+            55.664324
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Вешняковская ул., 18, Москва, этаж 4",
+        "coord": [
+            37.824571,
+            55.72408
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Лухмановская ул., 2, Москва, этаж 1",
+        "coord": [
+            37.898258,
+            55.711522
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Ленинградский просп., 76А, Москва, этаж 3",
+        "coord": [
+            37.514707,
+            55.805797
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Ярославское ш., 69, Москва, этаж 1",
+        "coord": [
+            37.704133,
+            55.86711
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "просп. Андропова, 22, Москва, этаж 3",
+        "coord": [
+            37.661666,
+            55.682812
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "просп. Андропова, 8, Москва, этаж 3",
+        "coord": [
+            37.664928,
+            55.695653
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "93А, д. Медвежьи Озёра",
+        "coord": [
+            37.983327,
+            55.858698
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "58, квартал Щитниково, Балашиха, этаж 1",
+        "coord": [
+            37.851119,
+            55.817713
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "ул. Сущёвский Вал, 31, стр. 1, Москва, ТЦ Оливье, этаж 1",
+        "coord": [
+            37.603922,
+            55.793141
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Боровское ш., вл2, Москва",
+        "coord": [
+            37.407701,
+            55.660137
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Хорошёвское ш., 27, Москва, этаж 4",
+        "coord": [
+            37.524373,
+            55.777096
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Угрешский пр., 2А, Котельники",
+        "coord": [
+            37.845255,
+            55.640316
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "МКАД, 28-й километр, 2, Москва",
+        "coord": [
+            37.674007,
+            55.572701
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Ленинградский просп., 36, Москва, этаж 1",
+        "coord": [
+            37.561475,
+            55.791504
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Варшавское ш., 153, Москва",
+        "coord": [
+            37.5971,
+            55.5775
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "11, микрорайон Опытное Поле, Котельники, этаж 1",
+        "coord": [
+            37.861134,
+            55.673232
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Носовихинское ш., 25, корп. 1Б, микрорайон Керамик, Балашиха",
+        "coord": [
+            37.967295,
+            55.749968
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Балаклавский просп., 5А, стр. 11, Москва, этаж 1",
+        "coord": [
+            37.608863,
+            55.640229
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "просп. Мира, 92, стр. 2, Москва, этаж 2",
+        "coord": [
+            37.636118,
+            55.793362
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Московская область, городской округ Красногорск, Новорижское шоссе, 7-й километр, с1, этаж 1",
+        "coord": [
+            37.279576,
+            55.799515
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Ярцевская ул., 19, Москва, этаж 4",
+        "coord": [
+            37.410244,
+            55.738022
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Шереметьевская ул., 6, корп. 1, Москва, этаж 4",
+        "coord": [
+            37.617484,
+            55.794534
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Октябрьский просп., 146, Люберцы, этаж 1",
+        "coord": [
+            37.889222,
+            55.68009
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Профсоюзная ул., 102, стр. 1, Москва, этаж 1",
+        "coord": [
+            37.526152,
+            55.643428
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "ул. Удальцова, 42, Москва",
+        "coord": [
+            37.491292,
+            55.683402
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Кировоградская ул., 9, корп. 4, Москва, этаж 1",
+        "coord": [
+            37.609722,
+            55.621751
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Верхняя Красносельская ул., 3А, Москва, этаж 3",
+        "coord": [
+            37.664065,
+            55.785962
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Егорьевское ш., 2А, рабочий посёлок Томилино",
+        "coord": [
+            37.921225,
+            55.658452
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "просп. Вернадского, 86Б, Москва, этаж 2",
+        "coord": [
+            37.481692,
+            55.661852
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "ул. Пришвина, 26, Москва, этаж 1",
+        "coord": [
+            37.603599,
+            55.884699
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Строгинский бул., 1, Москва, этаж 2",
+        "coord": [
+            37.3953,
+            55.806
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Литовский бул., 22, Москва",
+        "coord": [
+            37.537547,
+            55.611959
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Западная ул., с4, рабочий посёлок Новоивановское",
+        "coord": [
+            37.359953,
+            55.70808
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Люблинская ул., 169, корп. 2, Москва, этаж 3",
+        "coord": [
+            37.744924,
+            55.648956
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "ш. Энтузиастов, 80, Балашиха, ТЦ МаксСити",
+        "coord": [
+            37.987437,
+            55.79842
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "МКАД, 23-й километр, внешняя сторона, вл3, Москва",
+        "coord": [
+            37.738877,
+            55.595198
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Павелецкая площадь, 3, Москва",
+        "coord": [
+            37.638195,
+            55.730331
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Кутузовский просп., 57, Москва, этаж 3",
+        "coord": [
+            37.477716,
+            55.727988
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "ш. Энтузиастов, 54А, Балашиха, этаж 3",
+        "coord": [
+            37.96245,
+            55.795772
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Можайское ш., 71, Одинцово",
+        "coord": [
+            37.281194,
+            55.677766
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Дмитровское ш., 89, Москва, этаж 2",
+        "coord": [
+            37.545304,
+            55.86393
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Хорошёвский пр., 14, село Немчиновка, этаж 2",
+        "coord": [
+            37.380641,
+            55.719589
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Каширское ш., 61Г, Москва, этаж 4",
+        "coord": [
+            37.713245,
+            55.621836
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "ул. Адмирала Макарова, 6, стр. 13, Москва",
+        "coord": [
+            37.4902,
+            55.8357
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Багратионовский пр., 5, Москва, этаж 3",
+        "coord": [
+            37.508323,
+            55.743727
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Елецкая ул., 15, Москва, этаж 2",
+        "coord": [
+            37.733579,
+            55.60729
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Бирюлёвская ул., 51, Москва, этаж 1",
+        "coord": [
+            37.670806,
+            55.582703
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "ул. Дыбенко, 7/1, Москва",
+        "coord": [
+            37.47899,
+            55.8786
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Енисейская ул., 19, корп. 1, Москва, этаж 3",
+        "coord": [
+            37.663071,
+            55.869326
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Большая Черёмушкинская ул., 1, Москва, этаж 3",
+        "coord": [
+            37.601619,
+            55.690233
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Автозаводская ул., 18, Москва, этаж 3",
+        "coord": [
+            37.638165,
+            55.704782
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Шереметьевская ул., 20, Москва, этаж 3",
+        "coord": [
+            37.618044,
+            55.802749
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "4, микрорайон 1 Мая, Балашиха",
+        "coord": [
+            37.8412,
+            55.8093
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Широкая ул., 13А, Москва, этаж -1",
+        "coord": [
+            37.662485,
+            55.887981
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Фестивальная ул., 2Б, Москва, этаж 3",
+        "coord": [
+            37.477184,
+            55.854127
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Севастопольский просп., 11Е, Москва, этаж 3",
+        "coord": [
+            37.604466,
+            55.68741
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Международная ул., 12, Красногорск, этаж 3",
+        "coord": [
+            37.385691,
+            55.821089
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Варшавское ш., 87А, Москва, этаж 3",
+        "coord": [
+            37.621055,
+            55.653339
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Большая Тульская ул., 13, Москва, этаж 3",
+        "coord": [
+            37.621965,
+            55.709484
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Азовская ул., 24, корп. 3, Москва, этаж 3",
+        "coord": [
+            37.594968,
+            55.64774
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Тушинская ул., 17, Москва, этаж 3",
+        "coord": [
+            37.4447,
+            55.826628
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Ленинградская ул., с24с1, Химки",
+        "coord": [
+            37.427147,
+            55.896934
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Лазоревый пр., 1А, корп. 3, Москва",
+        "coord": [
+            37.637925,
+            55.847313
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Московская область, Быковское шоссе, 90А",
+        "coord": [
+            37.97765,
+            55.631138
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "МКАД, 33-й километр, 6, стр. 1, Москва",
+        "coord": [
+            37.589257,
+            55.578057
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Ленинский просп., 123В, Москва, этаж 2",
+        "coord": [
+            37.481896,
+            55.647566
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "ул. Ленина, 4, рабочий посёлок Октябрьский",
+        "coord": [
+            37.973616,
+            55.61179
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Молодёжная ул., 8, Химки",
+        "coord": [
+            37.41871,
+            55.881859
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Профсоюзная ул., 126, корп. 2, Москва, ТЦ Коньково-Пассаж, этаж 1",
+        "coord": [
+            37.5175,
+            55.6311
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Ленинградское ш., вл5, Химки, этаж 1",
+        "coord": [
+            37.433464,
+            55.888305
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Новоясеневский просп., 11, Москва, этаж 2",
+        "coord": [
+            37.53627,
+            55.606393
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Центральная ул., 121, д. Островцы",
+        "coord": [
+            38.0047,
+            55.5906
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Снежная ул., 27, Москва, этаж 3",
+        "coord": [
+            37.65313,
+            55.856068
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Москва, поселение Внуковское, улица Лётчика Ульянина, 5, этаж 1",
+        "coord": [
+            37.306341,
+            55.625661
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Локомотивный пр., 4, Москва, этаж 3",
+        "coord": [
+            37.577566,
+            55.838133
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Варшавское ш., 160, Москва, ТЦ Галерея Атлантис, этаж 1",
+        "coord": [
+            37.594879,
+            55.583006
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "пр. Дежнёва, 21, Москва, этаж 2",
+        "coord": [
+            37.638071,
+            55.870566
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Киевское шоссе, 23-й километр, 1, этаж 2",
+        "coord": [
+            37.422193,
+            55.624603
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "ул. Игоря Мерлушкина, 5, Красногорск",
+        "coord": [
+            37.266,
+            55.8351
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "МКАД, 87-й километр, 8, Москва, этаж 3",
+        "coord": [
+            37.629857,
+            55.89855
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "ул. Побратимов, 7, Люберцы, этаж 3",
+        "coord": [
+            37.897078,
+            55.692021
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Озёрная ул., 115, посёлок дома отдыха Озёра, коттеджный посёлок Довиль, ТЦ Конфитюр, этаж 1",
+        "coord": [
+            37.254756,
+            55.649753
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "МКАД, 2-й километр, 2, Реутов, этаж 4",
+        "coord": [
+            37.84501,
+            55.762718
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "ул. Маршала Катукова, 23, Москва",
+        "coord": [
+            37.413252,
+            55.80552
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Дмитровское ш., 73, стр. 2, Москва, этаж 2",
+        "coord": [
+            37.558128,
+            55.856544
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "ул. Орджоникидзе, 11, стр. 1А, Москва",
+        "coord": [
+            37.595567,
+            55.707049
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "ул. Федосьино, 12, Москва",
+        "coord": [
+            37.337319,
+            55.637943
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "ул. Каховка, 29А, Москва, этаж 4",
+        "coord": [
+            37.569397,
+            55.656276
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Сухановская ул., 1, стр. 1, рабочий посёлок Лопатино",
+        "coord": [
+            37.640743,
+            55.535348
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "8, корп. 1, жилой комплекс Бутово Парк, рабочий посёлок Бутово, помещение 1, этаж 3",
+        "coord": [
+            37.586417,
+            55.545983
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Октябрьский просп., 112, Люберцы, этаж 3",
+        "coord": [
+            37.877783,
+            55.685442
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "2-я Рейсовая ул., 2, корп. 5, посёлок Внуково, Внуково аэропорт, терминал А, этаж 2",
+        "coord": [
+            37.284588,
+            55.604117
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Новопетровская ул., 6, Москва, этаж 3",
+        "coord": [
+            37.516183,
+            55.825741
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "просп. Королёва, 6Г, Королёв",
+        "coord": [
+            37.839122,
+            55.920703
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Старо-Нагорная ул., 24, Видное",
+        "coord": [
+            37.69105,
+            55.567284
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Бартеневская ул., 12, Москва",
+        "coord": [
+            37.528751,
+            55.551865
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Алтуфьевское ш., 8, Москва, этаж 3",
+        "coord": [
+            37.5854,
+            55.853026
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Московская область, Ленинский городской округ, Варшавское шоссе, 21-й километр, с26, этаж 1",
+        "coord": [
+            37.609066,
+            55.574496
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Алтуфьевское ш., 70, корп. 1, Москва, этаж 3",
+        "coord": [
+            37.58835,
+            55.88814
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Ленинградское ш., 16А, стр. 4, Москва, этаж 3",
+        "coord": [
+            37.496938,
+            55.82338
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Аминьевское ш., 6, Москва, этаж 4",
+        "coord": [
+            37.45765,
+            55.706604
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Планерная ул., 7, Москва, этаж 2",
+        "coord": [
+            37.435045,
+            55.863317
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Щёлковское ш., 100, корп. 100, Москва, этаж 3",
+        "coord": [
+            37.831175,
+            55.81026
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Коммунистическая ул., 1, Мытищи, этаж 2",
+        "coord": [
+            37.749597,
+            55.891454
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Рождественская ул., 3, микрорайон Железнодорожный, Балашиха, этаж 2",
+        "coord": [
+            38.000748,
+            55.742996
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "ул. Генерала Кузнецова, 22, Москва, этаж 3",
+        "coord": [
+            37.854516,
+            55.685921
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Профсоюзная ул., 61А, Москва, этаж 2",
+        "coord": [
+            37.541059,
+            55.656338
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Измайловское ш., 71А, Москва",
+        "coord": [
+            37.752036,
+            55.789667
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "ул. Мичуринский Проспект, Олимпийская Деревня, 3, корп. 1, Москва, ТЦ Фестиваль, этаж 3",
+        "coord": [
+            37.466582,
+            55.677676
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "ул. Кадырова, 1, Москва, этаж 1",
+        "coord": [
+            37.512129,
+            55.537218
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "просп. Ленинского Комсомола, 9, корп. 3, Видное, ТЦ УниверМАК, этаж 1",
+        "coord": [
+            37.710257,
+            55.546278
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Большая Грузинская ул., 1, стр. 1, Москва",
+        "coord": [
+            37.578397,
+            55.761101
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Митинская ул., 53, Москва",
+        "coord": [
+            37.351582,
+            55.853183
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Октябрьский просп., 366, Люберцы, ТРЦ Орбита, этаж 3",
+        "coord": [
+            37.910652,
+            55.663078
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "просп. Мира, 211, корп. 2, Москва, этаж 2",
+        "coord": [
+            37.660963,
+            55.846071
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "ул. Маршала Бирюзова, 32, Москва, этаж 3",
+        "coord": [
+            37.483574,
+            55.799565
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Ореховый бул., 45, Москва",
+        "coord": [
+            37.742725,
+            55.614604
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "просп. Космонавтов, 23А, Королёв",
+        "coord": [
+            37.868363,
+            55.915899
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "ул. Красного Маяка, 2Б, Москва, этаж 2",
+        "coord": [
+            37.605841,
+            55.611393
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Московская область, городской округ Красногорск, М-9 Балтия, 26-й километр, 1, этаж 1",
+        "coord": [
+            37.23574,
+            55.782558
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Ореховый бул., 14, корп. 3, Москва, этаж 3",
+        "coord": [
+            37.720017,
+            55.610211
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Боровское ш., 51, стр. 1, Москва, этаж 1",
+        "coord": [
+            37.353067,
+            55.637291
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Щукинская ул., 42, Москва, этаж 4",
+        "coord": [
+            37.463678,
+            55.809176
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "1-й Покровский пр., 1, Котельники, этаж 1",
+        "coord": [
+            37.84691,
+            55.657775
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "ул. Перерва, 43, корп. 1, Москва, этаж 2",
+        "coord": [
+            37.750065,
+            55.659934
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Профсоюзная ул., 129А, Москва, этаж 4",
+        "coord": [
+            37.506958,
+            55.618891
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Святоозёрская ул., 1А, Москва, этаж 2",
+        "coord": [
+            37.883689,
+            55.714326
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Кустанайская ул., 6, Москва, этаж 2",
+        "coord": [
+            37.752556,
+            55.619625
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "ул. Ленина, 2, Красногорск, этаж 1",
+        "coord": [
+            37.320112,
+            55.819723
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Ленинградское ш., 227, стр. 2, Москва",
+        "coord": [
+            37.364854,
+            55.939889
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "МКАД, 53-й километр, вл110, Москва",
+        "coord": [
+            37.385154,
+            55.706957
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Старокачаловская ул., 5А, Москва, этаж 2",
+        "coord": [
+            37.578561,
+            55.570072
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Шараповский пр., вл2, Мытищи, этаж 3",
+        "coord": [
+            37.759134,
+            55.916238
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Поречная ул., 10, Москва, этаж 4",
+        "coord": [
+            37.771087,
+            55.649324
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "1-й Покровский пр., 5, Котельники, этаж 1",
+        "coord": [
+            37.845235,
+            55.654524
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Правобережная ул., 1Б, Москва, этаж 2",
+        "coord": [
+            37.448247,
+            55.880249
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Москва, поселение Московский, МКАД, 47-й километр, вл31с1",
+        "coord": [
+            37.428565,
+            55.659379
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Носовихинское ш., 45, Реутов, подъезд 2",
+        "coord": [
+            37.886947,
+            55.751688
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Кировоградская ул., 14, Москва, этаж 2",
+        "coord": [
+            37.606133,
+            55.622947
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Головинское ш., 5, корп. 1, Москва, этаж 3",
+        "coord": [
+            37.491251,
+            55.84009
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "площадь Ленина, 2А, Щёлково, Кинотеатр Пять Звезд",
+        "coord": [
+            37.992064,
+            55.921234
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Центральная ул., 40, микрорайон Кучино, Балашиха",
+        "coord": [
+            37.9556,
+            55.7513
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Шоссейная ул., с3, д. Голиково",
+        "coord": [
+            37.321675,
+            55.937808
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "ш. Энтузиастов, вл11с4, Западная коммунальная зона, Балашиха, этаж 1",
+        "coord": [
+            37.886471,
+            55.791112
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "ул. Миклухо-Маклая, 32А, Москва, этаж 2",
+        "coord": [
+            37.531378,
+            55.640506
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "1, корп. 2, Южный административный округ, район Чертаново Северное, микрорайон Северное Чертаново, Москва",
+        "coord": [
+            37.598063,
+            55.636459
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Дмитровское ш., 163А, Москва, этаж 2",
+        "coord": [
+            37.540023,
+            55.908831
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "ул. Хабарова, 2, Московский, подъезд 4",
+        "coord": [
+            37.350556,
+            55.593103
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "ул. Декабристов, 12, Москва, этаж 2",
+        "coord": [
+            37.601052,
+            55.863248
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Бесединское ш., вл15, Москва, этаж 1",
+        "coord": [
+            37.759504,
+            55.62556
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "ул. Амет-хан Султана, 37, Жуковский",
+        "coord": [
+            38.141704,
+            55.581148
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "МКАД, 66-й километр, 1, Москва",
+        "coord": [
+            37.383027,
+            55.810238
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "МКАД, 24-й километр, 1, Москва, ТРЦ Вегас",
+        "coord": [
+            37.7243,
+            55.5867
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Осташковское ш., 1, Мытищи, Ашан",
+        "coord": [
+            37.668117,
+            55.89912
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Ходынский бул., 4, Москва, этаж 4",
+        "coord": [
+            37.530147,
+            55.791005
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Лихачёвский просп., 64, Долгопрудный, этаж 1",
+        "coord": [
+            37.493965,
+            55.931392
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "ул. Исаева, 1Б, Королёв, ТЦ Зодиак",
+        "coord": [
+            37.858254,
+            55.924475
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Боровское ш., 6, Москва, этаж 2",
+        "coord": [
+            37.401113,
+            55.658701
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "МКАД, 41-й километр, с1, Москва, этаж 2",
+        "coord": [
+            37.49146,
+            55.603954
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Сигнальный пр., 17, Москва, этаж 1",
+        "coord": [
+            37.598898,
+            55.850965
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Сходненская ул., 56, Москва, этаж 4",
+        "coord": [
+            37.44376,
+            55.850039
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Олимпийская ул., 6, Видное",
+        "coord": [
+            37.698968,
+            55.545573
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Кронштадтский бул., 3А, Москва, этаж 2",
+        "coord": [
+            37.485129,
+            55.840905
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "7, микрорайон Подрезково, квартал Кирилловка, Химки",
+        "coord": [
+            37.3339,
+            55.9625
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Дубравная ул., 34/29, Москва, этаж 2",
+        "coord": [
+            37.358493,
+            55.846555
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Советская ул., 9, микрорайон Железнодорожный, Балашиха, этаж 4",
+        "coord": [
+            38.011283,
+            55.751501
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "ул. Чугунова, 15А, Раменское",
+        "coord": [
+            38.207452,
+            55.57666
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "2-я Рейсовая ул., 2, корп. 5, посёлок Внуково, Терминал А, этаж 3",
+        "coord": [
+            37.282219,
+            55.602598
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "1, район Новокуркино, 8-й микрорайон, Химки, этаж 2",
+        "coord": [
+            37.396518,
+            55.911508
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "МКАД, 84-й километр, вл3с1, Москва, территория ТПЗ Алтуфьево",
+        "coord": [
+            37.572166,
+            55.912709
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Сентябрьская ул., 21, Апрелевка",
+        "coord": [
+            37.069189,
+            55.550079
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Новоясеневский просп., 1, Москва, этаж 2",
+        "coord": [
+            37.509682,
+            55.619869
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Знаменская ул., 5, квартал Коммунальный, Красногорск, подъезд 1, этаж 3",
+        "coord": [
+            37.346627,
+            55.81884
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "ул. Поляны, 8, Москва, этаж 2",
+        "coord": [
+            37.5567,
+            55.565742
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Варшавское ш., 140, Москва, этаж 3",
+        "coord": [
+            37.607814,
+            55.611343
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "ул. Мира, с51, Мытищи",
+        "coord": [
+            37.708975,
+            55.918545
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Люблинская ул., 153, Москва, этаж 2",
+        "coord": [
+            37.742018,
+            55.658996
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Ореховый бул., 22А, Москва, этаж 3",
+        "coord": [
+            37.731491,
+            55.611906
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Железнодорожная ул., 15, Дедовск",
+        "coord": [
+            37.125392,
+            55.865875
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Парковая ул., с2, Лыткарино, ТЦ Весна",
+        "coord": [
+            37.912235,
+            55.582497
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Пролетарский просп., 10, Щёлково",
+        "coord": [
+            38.000994,
+            55.924201
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Москва, поселение Воскресенское, Чечёрский проезд, 51, этаж 3",
+        "coord": [
+            37.518087,
+            55.525045
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "ул. Октября, вл10, Реутов, этаж 4",
+        "coord": [
+            37.858228,
+            55.751785
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "просп. Мира, 17А, Фрязино",
+        "coord": [
+            38.059226,
+            55.955609
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Спортивная ул., 2А, рабочий посёлок Селятино",
+        "coord": [
+            36.9822,
+            55.5139
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Алтуфьевское шоссе, 1-й километр, вл3с1, Москва, этаж 2",
+        "coord": [
+            37.585706,
+            55.912605
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Молодёжная ул., 2/1, Краснознаменск, ТЦ Звездный, этаж 2",
+        "coord": [
+            37.0446,
+            55.601248
+        ]
+    },
+    {
+        "title": "Бургер Кинг",
+        "adress": "Московская область, городской округ Красногорск, Пятницкое шоссе, 7-й километр, вл2",
+        "coord": [
+            37.330983,
+            55.876957
+        ]
     }
 ]

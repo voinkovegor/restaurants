@@ -1,3 +1,12 @@
+import os
+import django
+from django.contrib.gis.geos import Point
+
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "restaurants.restaurants.settings")
+django.setup()
+
+from list_rest.models import Restaurant
+
 import json
 import time
 
@@ -31,7 +40,7 @@ def get_source_html(url, name):
         browser.close()
         browser.quit()
 
-def get_data(file_path, name, pk):
+def get_data(file_path, name):
     with open(file_path) as file:
         src = file.read()
 
@@ -45,24 +54,37 @@ def get_data(file_path, name, pk):
 
         adress = i.find('div', class_='search-business-snippet-view__address').text
 
-        coord = i.find('div', class_='search-snippet-view__body _type_business').get('data-coordinates')
-        lat, lon = [float(j) for j in coord.split(',')]
-
-        result.append(
-            {
-                "model": "list_rest.restaurant",
-                "pk": pk[0],
-                "fields": {
+        coord = i.find('div', class_='search-snippet-view__body _type_business')
+        if coord:
+            coord = coord.get('data-coordinates')
+            lat, lon = [float(j) for j in coord.split(',')]
+            result.append(
+                {
                     'title': title,
                     'adress': adress,
-                    'lat': lat,
-                    'lon': lon
+                    'coord': [lat, lon]
                 }
-        })
-        pk[0] += 1
+            )
+        else:
+            print(name, 'Координаты не найдены', elements.index(i))
 
-    with open(f'restaurants/list_rest/fixtures/{name}_data.json', 'w', encoding='utf-8') as file:
+    with open(f'restaurants/list_rest/fixtures/{name}_newdata.json', 'w', encoding='utf-8') as file:
         json.dump(result, file, indent=4, ensure_ascii=False)
+
+
+def insert_data(file_path):
+    with open(file_path, encoding='utf-8') as file:
+        src = json.load(file)
+
+    for i in src:
+        if i['title'] == 'Kentucky Fried Chicken':
+            i['title'] = 'KFC'
+        Restaurant.objects.create(
+            title=i['title'],
+            adress=i['adress'],
+            coord=Point(i['coord'])
+        )
+
 
 
 urls = {
@@ -72,11 +94,10 @@ urls = {
 }
 
 def main():
-    pk = [1]
     for name, url in urls.items():
         get_source_html(url, name)
-        get_data(f'restaurants/list_rest/parsing/{name}_source-page.html', name, pk)
-
+        get_data(f'restaurants/list_rest/parsing/{name}_source-page.html', name)
+        insert_data(f'restaurants/list_rest/fixtures/{name}_data.json')
 
 
 if __name__ == '__main__':

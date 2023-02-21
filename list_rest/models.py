@@ -12,9 +12,7 @@ class Migration(migrations.Migration):
 class Restaurant(models.Model):
     title = models.CharField(max_length=100)
     adress = models.CharField(max_length=255)
-    lat = models.FloatField()
-    lon = models.FloatField()
-    #coord = models.PointField(lat, lon)
+    coord = models.PointField()
 
     def __str__(self):
         return self.title + ' ' + self.adress

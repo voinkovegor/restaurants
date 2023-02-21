@@ -1,2822 +1,2258 @@
 [
     {
-        "model": "list_rest.restaurant",
-        "pk": 606,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Волгоградский просп., 24",
-            "lat": 37.679822,
-            "lon": 55.727154
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 607,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Большая Бронная ул., 29",
-            "lat": 37.60317,
-            "lon": 55.764554
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 608,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Манежная площадь, 1, стр. 2",
-            "lat": 37.615102,
-            "lon": 55.755617
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 609,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Большая Серпуховская ул., 4/3",
-            "lat": 37.623767,
-            "lon": 55.729118
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 610,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ул. Большая Ордынка, 21, стр. 2",
-            "lat": 37.625559,
-            "lon": 55.740931
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 611,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Большая Дорогомиловская ул., 8А",
-            "lat": 37.566184,
-            "lon": 55.745845
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 612,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Рязанский просп., 32, корп. 2, Москва",
-            "lat": 37.785317,
-            "lon": 55.718112
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 613,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "просп. Мира, 39А",
-            "lat": 37.632178,
-            "lon": 55.780991
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 614,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "просп. Мира, 119, стр. 547",
-            "lat": 37.637736,
-            "lon": 55.828619
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 615,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ул. Красная Пресня, 31",
-            "lat": 37.563187,
-            "lon": 55.76242
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 616,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Троилинский пер., 1",
-            "lat": 37.584492,
-            "lon": 55.747389
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 617,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Щёлковское ш., 2/1с1",
-            "lat": 37.755564,
-            "lon": 55.802799
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 618,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Зеленодольская ул., 38",
-            "lat": 37.766836,
-            "lon": 55.705934
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 619,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Русаковская ул., 26",
-            "lat": 37.681267,
-            "lon": 55.78872
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 620,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Свободный просп., 35Б",
-            "lat": 37.817215,
-            "lon": 55.750311
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 621,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Большая Семёновская ул., 26",
-            "lat": 37.706721,
-            "lon": 55.782059
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 622,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ул. Сергия Радонежского, 29-31с4, Москва",
-            "lat": 37.679445,
-            "lon": 55.7472
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 623,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Ленинский просп., 111/2",
-            "lat": 37.508753,
-            "lon": 55.66223
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 624,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Коломенский пр., 7Б",
-            "lat": 37.658667,
-            "lon": 55.667612
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 625,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Бутырская ул., 77, стр. 2",
-            "lat": 37.582242,
-            "lon": 55.804315
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 626,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Люблинская ул., 165, корп. 1А",
-            "lat": 37.744725,
-            "lon": 55.649717
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 627,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ул. Вавилова, 66, Москва",
-            "lat": 37.549531,
-            "lon": 55.682818
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 628,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ул. Земляной Вал, 27, стр. 2, Москва",
-            "lat": 37.658583,
-            "lon": 55.758606
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 629,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Каширское ш., 12А",
-            "lat": 37.628813,
-            "lon": 55.665969
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 630,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ул. Милашенкова, 4Д",
-            "lat": 37.588626,
-            "lon": 55.822834
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 631,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "просп. Маршала Жукова, 31, корп. 2, Москва",
-            "lat": 37.479057,
-            "lon": 55.775161
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 632,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Ярославское ш., вл3с1, Москва",
-            "lat": 37.67636,
-            "lon": 55.851443
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 633,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Носовихинское ш., 12, Реутов, этаж 1",
-            "lat": 37.862778,
-            "lon": 55.746158
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 634,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ул. Покрышкина, 2, Москва",
-            "lat": 37.481279,
-            "lon": 55.664164
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 635,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ул. Вавилова, 3, Москва, этаж 2",
-            "lat": 37.589981,
-            "lon": 55.707253
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 636,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Каширское ш., 61/15, Москва",
-            "lat": 37.717942,
-            "lon": 55.612192
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 637,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Новослободская ул., 16, Москва, этаж 2",
-            "lat": 37.59918,
-            "lon": 55.781736
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 638,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Хорошёвское ш., 35А, стр. 1, Москва",
-            "lat": 37.520823,
-            "lon": 55.777342
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 639,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Инициативная ул., 7Г, стр. 1, Люберцы",
-            "lat": 37.894781,
-            "lon": 55.685153
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 640,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ул. Маросейка, 9/2с1, Москва",
-            "lat": 37.634421,
-            "lon": 55.757706
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 641,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Можайское ш., 43/1, Москва",
-            "lat": 37.409158,
-            "lon": 55.716774
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 642,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Ленинградское ш., 63, корп. 1, Москва",
-            "lat": 37.462336,
-            "lon": 55.865667
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 643,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Матвеевская ул., 9, Москва",
-            "lat": 37.45887,
-            "lon": 55.703816
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 644,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Никольская ул., 10, Москва, этаж 0",
-            "lat": 37.624004,
-            "lon": 55.757947
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 645,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "просп. Мира, 123А, Москва",
-            "lat": 37.642302,
-            "lon": 55.827453
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 646,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "площадь Тверская Застава, 2, стр. 2, Москва, этаж 2",
-            "lat": 37.584063,
-            "lon": 55.775456
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 647,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Дмитровское ш., 89Б, стр. 1, Москва",
-            "lat": 37.548119,
-            "lon": 55.864309
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 648,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Ладожская ул., 1/2, Москва",
-            "lat": 37.681513,
-            "lon": 55.77167
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 649,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "МКАД, 3-й километр, 3, Реутов",
-            "lat": 37.843068,
-            "lon": 55.75485
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 650,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ш. Энтузиастов, 32А, Балашиха",
-            "lat": 37.93663,
-            "lon": 55.793717
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 651,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Братиславская ул., 16, корп. 1, Москва, этаж 1",
-            "lat": 37.757449,
-            "lon": 55.659358
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 652,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Лухмановская ул., вл8, Москва, этаж 1",
-            "lat": 37.899706,
-            "lon": 55.714493
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 653,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Комсомольский просп., 28, Москва, этаж 1",
-            "lat": 37.580257,
-            "lon": 55.72763
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 654,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Кожевническая ул., 8/4с1, Москва",
-            "lat": 37.644119,
-            "lon": 55.729761
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 655,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Мясницкая ул., 14/2с1, Москва, этаж 2",
-            "lat": 37.63203,
-            "lon": 55.760728
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 656,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ш. Энтузиастов, вл63с1, Москва",
-            "lat": 37.835695,
-            "lon": 55.775806
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 657,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ул. Грина, 5А, Москва",
-            "lat": 37.573087,
-            "lon": 55.566346
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 658,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Боровское ш., 38, Москва",
-            "lat": 37.351638,
-            "lon": 55.638348
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 659,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ул. Шаболовка, 34, стр. 4, Москва",
-            "lat": 37.607574,
-            "lon": 55.718481
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 660,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Новорязанское ш., 6А, Котельники",
-            "lat": 37.871346,
-            "lon": 55.668314
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 661,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Большая Тульская ул., 2, Москва",
-            "lat": 37.620929,
-            "lon": 55.710243
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 662,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ул. Лескова, 1, Москва",
-            "lat": 37.588326,
-            "lon": 55.89821
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 663,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ул. Маршала Катукова, 19, Москва",
-            "lat": 37.409264,
-            "lon": 55.807085
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 664,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Таганская ул., 1, стр. 1, Москва, фудкорт, ТЦ \"Звёздочка\", этаж 3",
-            "lat": 37.655865,
-            "lon": 55.741733
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 665,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Газетный пер., 17, Москва",
-            "lat": 37.610473,
-            "lon": 55.758855
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 666,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Кировоградская ул., 9, корп. 4, стр. 3, Москва, этаж 1",
-            "lat": 37.613331,
-            "lon": 55.622277
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 667,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "9-я Парковая ул., 62, Москва",
-            "lat": 37.800275,
-            "lon": 55.805555
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 668,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Волоколамское ш., 90, корп. 2, Москва",
-            "lat": 37.436271,
-            "lon": 55.824839
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 669,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Пресненская наб., 2, Москва, этаж 5",
-            "lat": 37.538876,
-            "lon": 55.748937
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 670,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Ходынский бул., 4, Москва, этаж 4",
-            "lat": 37.530745,
-            "lon": 55.790885
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 671,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Кантемировская ул., 47, Москва",
-            "lat": 37.656744,
-            "lon": 55.637573
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 672,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Красногорский бул., 1, Красногорск",
-            "lat": 37.361062,
-            "lon": 55.818907
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 673,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Октябрьская ул., 35, микрорайон Железнодорожный, Балашиха",
-            "lat": 37.999823,
-            "lon": 55.751361
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 674,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "просп. Мира, 97, Москва, этаж 1",
-            "lat": 37.636707,
-            "lon": 55.809982
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 675,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Липецкая ул., 2, корп. 7, Москва",
-            "lat": 37.66318,
-            "lon": 55.610647
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 676,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Привольная ул., 70, корп. 2, Москва",
-            "lat": 37.855658,
-            "lon": 55.677163
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 677,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Люблинская ул., 66, Москва",
-            "lat": 37.739498,
-            "lon": 55.671825
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 678,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ул. Менжинского, 36, Москва",
-            "lat": 37.662965,
-            "lon": 55.870342
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 679,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ул. Новый Арбат, 5, Москва",
-            "lat": 37.597977,
-            "lon": 55.752715
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 680,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Сосновая ул., 2, д. Сосенки",
-            "lat": 37.450102,
-            "lon": 55.570431
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 681,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Осенний бул., 12, Москва, этаж 1",
-            "lat": 37.409304,
-            "lon": 55.759372
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 682,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Коммунистическая ул., 10, корп. 1, Мытищи",
-            "lat": 37.74419,
-            "lon": 55.891121
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 683,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Ленинградское ш., 30А, Химки",
-            "lat": 37.416682,
-            "lon": 55.904973
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 684,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Митинская ул., 40, корп. 3, Москва",
-            "lat": 37.361204,
-            "lon": 55.847629
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 685,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Ярославское ш., 101, Мытищи",
-            "lat": 37.778323,
-            "lon": 55.911424
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 686,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ул. Мастеркова, 6А, стр. 2, Москва",
-            "lat": 37.657225,
-            "lon": 55.708222
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 687,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ул. Миклухо-Маклая, 36А, Москва, ТЦ МЦ, этаж 1",
-            "lat": 37.532695,
-            "lon": 55.640343
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 688,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Широкая ул., 13А, Москва, этаж 1",
-            "lat": 37.662659,
-            "lon": 55.887916
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 689,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Чертановская ул., 20, стр. 3, Москва",
-            "lat": 37.594117,
-            "lon": 55.624899
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 690,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Вешняковская ул., 22А, Москва",
-            "lat": 37.822173,
-            "lon": 55.720362
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 691,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Белореченская ул., 14, Москва, этаж 1",
-            "lat": 37.763343,
-            "lon": 55.66992
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 692,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Ленинградский просп., 36, Москва, этаж 1",
-            "lat": 37.558229,
-            "lon": 55.790856
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 693,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Мичуринский просп., вл27, Москва",
-            "lat": 37.500223,
-            "lon": 55.697308
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 694,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Хабаровская ул., 15, Москва",
-            "lat": 37.823687,
-            "lon": 55.822714
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 695,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Большая Тульская ул., 13, Москва, этаж 3",
-            "lat": 37.622388,
-            "lon": 55.709452
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 696,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Малая Сухаревская площадь, 12, Москва",
-            "lat": 37.631745,
-            "lon": 55.772139
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 697,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ул. Измайловский Вал, 2, Москва",
-            "lat": 37.719275,
-            "lon": 55.783794
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 698,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Можайское ш., 133, Одинцово",
-            "lat": 37.295297,
-            "lon": 55.68404
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 699,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Ленинградское ш., 16А, стр. 8, Москва",
-            "lat": 37.495437,
-            "lon": 55.824468
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 700,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Венёвская ул., 4, Москва, этаж 1",
-            "lat": 37.542509,
-            "lon": 55.548472
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 701,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Октябрьский просп., 411А, Люберцы",
-            "lat": 37.917115,
-            "lon": 55.659241
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 702,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Варшавское ш., 143А, Москва",
-            "lat": 37.599156,
-            "lon": 55.583681
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 703,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Ленинградский просп., 62А, Москва, этаж 2",
-            "lat": 37.532587,
-            "lon": 55.802019
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 704,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "просп. Вернадского, 6, Москва, этаж 3",
-            "lat": 37.528202,
-            "lon": 55.692313
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 705,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "1-я Останкинская ул., 55, Москва, этаж 2",
-            "lat": 37.633553,
-            "lon": 55.823663
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 706,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Комсомольская площадь, 3, Москва",
-            "lat": 37.654784,
-            "lon": 55.776477
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 707,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Профсоюзная ул., 118, Москва",
-            "lat": 37.521268,
-            "lon": 55.636457
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 708,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Малая Юшуньская ул., 1, корп. 1, Москва",
-            "lat": 37.593876,
-            "lon": 55.652761
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 709,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ул. Мира, вл40, Мытищи",
-            "lat": 37.715138,
-            "lon": 55.922378
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 710,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Свободный просп., 33А, Москва, этаж 1",
-            "lat": 37.818129,
-            "lon": 55.75234
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 711,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Рязанский просп., 2, корп. 2, Москва, этаж 2",
-            "lat": 37.732231,
-            "lon": 55.729908
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 712,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ул. Декабристов, 12, Москва, этаж 2",
-            "lat": 37.600898,
-            "lon": 55.863293
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 713,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ул. Борисовские Пруды, 26, стр. 2, Москва, этаж 1",
-            "lat": 37.758438,
-            "lon": 55.638774
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 714,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Совхозная ул., 39, Москва",
-            "lat": 37.76032,
-            "lon": 55.673807
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 715,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Москва, поселение Московский, Киевское шоссе, 22-й километр, дв4с1кБ, этаж 1",
-            "lat": 37.443511,
-            "lon": 55.633918
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 716,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Московская область, городской округ Красногорск, Новорижское шоссе, 29-й километр, с1",
-            "lat": 37.185941,
-            "lon": 55.778325
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 717,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Балтийская ул., 9, Москва",
-            "lat": 37.513126,
-            "lon": 55.809283
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 718,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "просп. Королёва, 5Д, корп. 1, Королёв",
-            "lat": 37.844465,
-            "lon": 55.921951
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 719,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Лермонтовский просп., 19, корп. 2, Москва",
-            "lat": 37.855769,
-            "lon": 55.700079
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 720,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ул. Лобачевского, 37, стр. 1, Москва",
-            "lat": 37.474507,
-            "lon": 55.687715
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 721,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ш. Энтузиастов, 4А, квартал Западная Промзона, Балашиха",
-            "lat": 37.910984,
-            "lon": 55.794042
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 722,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ул. Ленина, 16, Красногорск",
-            "lat": 37.306009,
-            "lon": 55.829318
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 723,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Центральная ул., 8Б, посёлок Внуково",
-            "lat": 37.286689,
-            "lon": 55.611178
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 724,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "7-я Кожуховская ул., 9, Москва, этаж 3",
-            "lat": 37.675432,
-            "lon": 55.710338
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 725,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Шарикоподшипниковская ул., 11, стр. 5, Москва",
-            "lat": 37.676504,
-            "lon": 55.718687
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 726,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Ярцевская ул., 19, Москва, этаж 4",
-            "lat": 37.410806,
-            "lon": 55.738482
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 727,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Ярославское ш., 54, Москва",
-            "lat": 37.704942,
-            "lon": 55.865985
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 728,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Складочная ул., 1, стр. 31, Москва, этаж 1",
-            "lat": 37.594532,
-            "lon": 55.802444
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 729,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Алтуфьевское ш., 24, корп. 1, Москва",
-            "lat": 37.585168,
-            "lon": 55.862517
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 730,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Варшавское ш., 135Б, Москва",
-            "lat": 37.603071,
-            "lon": 55.596276
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 731,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Новоухтомское ш., 2А, стр. 2, Москва",
-            "lat": 37.849677,
-            "lon": 55.710846
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 732,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "просп. Космонавтов, 20А, Королёв",
-            "lat": 37.866984,
-            "lon": 55.914955
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 733,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Снежная ул., 16, корп. 1, Москва, павильон 1-7, этаж 1",
-            "lat": 37.645875,
-            "lon": 55.851267
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 734,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Шереметьевская ул., 6, корп. 1, Москва, этаж 4",
-            "lat": 37.616823,
-            "lon": 55.794705
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 735,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Щукинская ул., 42, Москва, этаж 4",
-            "lat": 37.463331,
-            "lon": 55.809468
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 736,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Советская ул., 2, Одинцово",
-            "lat": 37.279515,
-            "lon": 55.672132
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 737,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ул. Ленина, 2Б, Дзержинский, этаж 1",
-            "lat": 37.840971,
-            "lon": 55.638676
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 738,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "просп. Ленина, 25, Балашиха",
-            "lat": 37.938348,
-            "lon": 55.797706
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 739,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Киевская ул., 2, Москва",
-            "lat": 37.563714,
-            "lon": 55.74403
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 740,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Западная ул., 181, рабочий посёлок Новоивановское",
-            "lat": 37.343842,
-            "lon": 55.699303
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 741,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "МКАД, 104-й километр, 6, Москва",
-            "lat": 37.837908,
-            "lon": 55.810591
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 742,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ш. Энтузиастов, 1Б, Балашиха",
-            "lat": 37.926244,
-            "lon": 55.794349
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 743,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ул. Никитина, 2, Московский, этаж 2",
-            "lat": 37.356453,
-            "lon": 55.604293
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 744,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "МКАД, 47-й километр, вл31с1",
-            "lat": 37.428578,
-            "lon": 55.659536
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 745,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Кутузовский просп., 57, Москва, этаж 3",
-            "lat": 37.477726,
-            "lon": 55.727879
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 746,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Рязанский просп., 75, стр. 1, Москва, этаж 2",
-            "lat": 37.791666,
-            "lon": 55.717832
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 747,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Рябиновая ул., 15, стр. 1, д. Десна",
-            "lat": 37.386166,
-            "lon": 55.52555
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 748,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "МКАД, 38-й километр, 4Б, Москва",
-            "lat": 37.513558,
-            "lon": 55.596176
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 749,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "просп. Мира, 211, корп. 2, Москва, этаж 2",
-            "lat": 37.660237,
-            "lon": 55.84545
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 750,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ул. Борисовские Пруды, 8А, Москва",
-            "lat": 37.736551,
-            "lon": 55.634984
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 751,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Пролетарский просп., 9/1, Щёлково",
-            "lat": 37.999082,
-            "lon": 55.924584
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 752,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Мясницкая ул., 30/1, Москва",
-            "lat": 37.638386,
-            "lon": 55.765364
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 753,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Театральный пр., 5, стр. 1, Центральный административный округ, Тверской район, Москва, этаж 6",
-            "lat": 37.624631,
-            "lon": 55.759816
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 754,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ул. Героев Панфиловцев, 7, Москва",
-            "lat": 37.432083,
-            "lon": 55.857337
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 755,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Головинское ш., 5, корп. 1, Москва, этаж 3",
-            "lat": 37.491228,
-            "lon": 55.840261
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 756,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Советская ул., 33, Балашиха",
-            "lat": 37.952566,
-            "lon": 55.815373
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 757,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Шараповский пр., с9, Мытищи",
-            "lat": 37.759631,
-            "lon": 55.915313
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 758,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "просп. Андропова, 22, Москва, этаж 3",
-            "lat": 37.661921,
-            "lon": 55.682773
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 759,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "7-я Кожуховская ул., 9, Москва, этаж 3",
-            "lat": 37.675447,
-            "lon": 55.710341
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 760,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ул. Ленина, 39Б, стр. 1, рабочий посёлок Октябрьский",
-            "lat": 37.978074,
-            "lon": 55.607418
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 761,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Молодёжная ул., 9А, Химки",
-            "lat": 37.415644,
-            "lon": 55.882345
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 762,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Чонгарский бул., 19, Москва, этаж 2",
-            "lat": 37.606979,
-            "lon": 55.652832
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 763,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Дмитровское ш., 36А, село Виноградово",
-            "lat": 37.540856,
-            "lon": 55.946146
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 764,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Локомотивный пр., 4, Москва, этаж 3",
-            "lat": 37.576978,
-            "lon": 55.838326
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 765,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "МКАД, 27-й километр, вл9, Москва, ТЦ БрендСити",
-            "lat": 37.703125,
-            "lon": 55.580874
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 766,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Новосходненское ш., 140, Химки",
-            "lat": 37.314867,
-            "lon": 55.938158
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 767,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Дмитровское ш., 163А, корп. 1, Москва",
-            "lat": 37.542806,
-            "lon": 55.910778
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 768,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Западная ул., 18А, рабочий посёлок Новоивановское",
-            "lat": 37.36224,
-            "lon": 55.709122
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 769,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Новорязанское ш., 7, корп. 1, Люберцы",
-            "lat": 37.870431,
-            "lon": 55.67008
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 770,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Новоясеневский просп., 11, Москва",
-            "lat": 37.536172,
-            "lon": 55.606872
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 771,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ул. Александры Монаховой, 93А, посёлок Коммунарка",
-            "lat": 37.49008,
-            "lon": 55.543343
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 772,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Путилковское ш., 2, стр. 1, д. Путилково",
-            "lat": 37.399612,
-            "lon": 55.870838
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 773,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ул. Михалевича, 3А, Раменское",
-            "lat": 38.230808,
-            "lon": 55.567781
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 774,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Центральная ул., 8, дачный посёлок Лесной Городок",
-            "lat": 37.211869,
-            "lon": 55.632621
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 775,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ул. Яблочкова, 19-21, Москва",
-            "lat": 37.5772,
-            "lon": 55.818919
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 776,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Щёлковское ш., 100, корп. 100, Москва",
-            "lat": 37.831056,
-            "lon": 55.810746
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 777,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Профсоюзная ул., 56, Москва, этаж 4",
-            "lat": 37.55326,
-            "lon": 55.669874
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 778,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ул. Дыбенко, 7/1, Москва",
-            "lat": 37.478628,
-            "lon": 55.878499
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 779,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Московская область, городской округ Красногорск, М-9 Балтия, 25-й километр, вл1",
-            "lat": 37.256984,
-            "lon": 55.788153
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 780,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Хорошёвский пр., 14, село Немчиновка, этаж 2",
-            "lat": 37.380217,
-            "lon": 55.719135
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 781,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Можайское ш., 58, Москва, этаж 1",
-            "lat": 37.395915,
-            "lon": 55.71547
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 782,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Подмосковная ул., 37/2, д. Островцы",
-            "lat": 37.985703,
-            "lon": 55.598165
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 783,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Парковая ул., с2, Лыткарино",
-            "lat": 37.912499,
-            "lon": 55.581462
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 784,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Юбилейный просп., 57, Реутов",
-            "lat": 37.881741,
-            "lon": 55.753651
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 785,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Багратионовский пр., 5, Москва, этаж 3",
-            "lat": 37.50892,
-            "lon": 55.743942
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 786,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ул. Менделеева, 14, Жуковский",
-            "lat": 38.108447,
-            "lon": 55.603405
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 787,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ул. Миклухо-Маклая, 18, корп. 3, Москва",
-            "lat": 37.520302,
-            "lon": 55.644379
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 788,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Профсоюзная ул., 61А, Москва, этаж 2",
-            "lat": 37.542186,
-            "lon": 55.65604
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 789,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Юбилейный просп., 85, Химки",
-            "lat": 37.408067,
-            "lon": 55.898248
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 790,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "159-й пр., с2, Мытищи",
-            "lat": 37.748379,
-            "lon": 55.932962
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 791,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Каширское ш., 80, Москва, этаж -1",
-            "lat": 37.709392,
-            "lon": 55.624787
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 792,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Новоясеневский просп., 7, Москва, этаж 3",
-            "lat": 37.532995,
-            "lon": 55.608074
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 793,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Ленинский просп., 101, Москва",
-            "lat": 37.515506,
-            "lon": 55.666415
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 794,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Севастопольский просп., 11Е, Москва",
-            "lat": 37.604532,
-            "lon": 55.687707
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 795,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ул. Пришвина, 22, Москва",
-            "lat": 37.602366,
-            "lon": 55.885185
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 796,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Бирюлёвская ул., 51, корп. 1, Москва",
-            "lat": 37.671617,
-            "lon": 55.582796
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 797,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Михневское ш., 3, рабочий посёлок Малаховка",
-            "lat": 38.017138,
-            "lon": 55.624823
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 798,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Каширское ш., 61Г, Москва, этаж 4",
-            "lat": 37.712974,
-            "lon": 55.622151
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 799,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Международная ул., 12, Красногорск, этаж 3",
-            "lat": 37.385825,
-            "lon": 55.820974
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 800,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Большая Воскресенская ул., 1, Красногорск",
-            "lat": 37.341619,
-            "lon": 55.816503
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 801,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "просп. Андропова, 8, Москва, этаж 3",
-            "lat": 37.664931,
-            "lon": 55.695716
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 802,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Дирижабельная ул., 23, Долгопрудный",
-            "lat": 37.506203,
-            "lon": 55.945865
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 803,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ул. Мичуринский Проспект, Олимпийская Деревня, 3, корп. 1, Москва, этаж 3",
-            "lat": 37.467287,
-            "lon": 55.67804
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 804,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Староватутинский пр., 14, Москва",
-            "lat": 37.665853,
-            "lon": 55.875867
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 805,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "1-й Покровский пр., 1, Котельники, этаж 2",
-            "lat": 37.84712,
-            "lon": 55.657526
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 806,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ул. Кулакова, 16, корп. 1, Москва",
-            "lat": 37.394362,
-            "lon": 55.807138
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 807,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "пр. Дежнёва, 21, Москва",
-            "lat": 37.637569,
-            "lon": 55.870624
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 808,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Ленинградское ш., вл5, Химки, этаж 1",
-            "lat": 37.43313,
-            "lon": 55.888639
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 809,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Мичуринский просп., 21А, Москва",
-            "lat": 37.505284,
-            "lon": 55.700026
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 810,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Рублёво-Успенское ш., 17, посёлок Горки-2",
-            "lat": 37.166224,
-            "lon": 55.723747
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 811,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "3-я Парковая ул., 24, Москва",
-            "lat": 37.783207,
-            "lon": 55.794771
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 812,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Пятницкое ш., 9, посёлок Отрадное",
-            "lat": 37.319396,
-            "lon": 55.879889
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 813,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ул. Каховка, 29А, Москва, этаж 4",
-            "lat": 37.569506,
-            "lon": 55.65595
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 814,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Каширское ш., 14, Москва, этаж 3",
-            "lat": 37.627262,
-            "lon": 55.664839
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 815,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ул. Красного Маяка, 2Б, Москва, этаж 2",
-            "lat": 37.60632,
-            "lon": 55.611325
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 816,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "просп. Мира, 40, Москва",
-            "lat": 37.633635,
-            "lon": 55.780182
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 817,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Волоцкой пер., 9, Москва",
-            "lat": 37.35199,
-            "lon": 55.836834
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 818,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Северное ш., 11, Раменское",
-            "lat": 38.21951,
-            "lon": 55.583486
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 819,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Большая Семёновская ул., 17А, Москва, этаж 3",
-            "lat": 37.706021,
-            "lon": 55.782931
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 820,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Берёзовая ул., 4, Видное",
-            "lat": 37.719172,
-            "lon": 55.545207
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 821,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ул. Маршала Неделина, 6Б, Одинцово",
-            "lat": 37.268591,
-            "lon": 55.678006
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 822,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Вешняковская ул., 18, Москва, этаж 4",
-            "lat": 37.824742,
-            "lon": 55.724255
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 823,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Московская область, городской округ Красногорск, М-9 Балтия, 21-й километр, с1",
-            "lat": 37.299775,
-            "lon": 55.804481
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 824,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Москва, поселение Московский, Киевское шоссе, 23-й километр, 1, этаж Р1",
-            "lat": 37.423626,
-            "lon": 55.622481
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 825,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Тушинская ул., 18, Москва",
-            "lat": 37.443603,
-            "lon": 55.827558
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 826,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "МКАД, 24-й километр, 1, посёлок Совхоза имени Ленина, ТЦ ВЕГАС",
-            "lat": 37.723644,
-            "lon": 55.585268
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 827,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Рублёвское ш., 62, Москва, этаж 2",
-            "lat": 37.381045,
-            "lon": 55.766533
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 828,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Октябрьский просп., 112, Люберцы, этаж 3",
-            "lat": 37.877254,
-            "lon": 55.685617
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 829,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Дмитровское ш., 89, Москва, этаж 2",
-            "lat": 37.545456,
-            "lon": 55.8641
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 830,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Москва, поселение Московский, Киевское шоссе, 23-й километр, 1, этаж 2",
-            "lat": 37.42409,
-            "lon": 55.624106
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 831,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Каширское ш., 26, Москва, этаж 3",
-            "lat": 37.64723,
-            "lon": 55.653678
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 832,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ул. Лобачевского, 37, стр. 1, Москва",
-            "lat": 37.47458,
-            "lon": 55.687731
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 833,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "МКАД, 41-й километр, с1, Москва, ТРЦ МЕГА, этаж 2",
-            "lat": 37.49175,
-            "lon": 55.603484
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 834,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Большая Черёмушкинская ул., 1, Москва",
-            "lat": 37.601574,
-            "lon": 55.690625
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 835,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Шереметьевская ул., 20, Москва, этаж 3",
-            "lat": 37.618526,
-            "lon": 55.802845
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 836,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Старокачаловская ул., 5А, Москва, этаж 2",
-            "lat": 37.578775,
-            "lon": 55.569983
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 837,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Ореховый бул., 22А, Москва, этаж 3",
-            "lat": 37.731531,
-            "lon": 55.611851
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 838,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Бартеневская ул., 14, Москва",
-            "lat": 37.52858,
-            "lon": 55.55049
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 839,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Ленинградское ш., вл9, Химки",
-            "lat": 37.427305,
-            "lon": 55.895157
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 840,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Шараповский пр., вл2, Мытищи, этаж 3",
-            "lat": 37.75914,
-            "lon": 55.916528
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 841,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Новоясеневский просп., 1, Москва, этаж 2",
-            "lat": 37.51014,
-            "lon": 55.619306
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 842,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ул. Авиаторов, 3А, Москва, этаж 2",
-            "lat": 37.397567,
-            "lon": 55.643181
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 843,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Варшавское ш., 140, Москва, этаж 4",
-            "lat": 37.608309,
-            "lon": 55.611282
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 844,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "1, район Новокуркино, 8-й микрорайон, Химки, этаж 2",
-            "lat": 37.397019,
-            "lon": 55.911623
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 845,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "1, территория Ногинск-Технопарк, Ногинск",
-            "lat": 38.403617,
-            "lon": 55.830571
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 846,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Лобненская ул., 4А, Москва, этаж 2",
-            "lat": 37.538054,
-            "lon": 55.890017
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 847,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ул. Селезнёва, 33, Мытищи, этаж 2",
-            "lat": 37.727683,
-            "lon": 55.892036
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 848,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Варшавское ш., 87А, Москва, этаж 3",
-            "lat": 37.620695,
-            "lon": 55.653268
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 849,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "просп. Вернадского, 86А, Москва, ТЦ АВЕНЮ, этаж 5",
-            "lat": 37.480853,
-            "lon": 55.663262
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 850,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "117, д. Новинки",
-            "lat": 37.12855,
-            "lon": 55.811356
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 851,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ул. Генерала Кузнецова, 22, Москва",
-            "lat": 37.854572,
-            "lon": 55.685921
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 852,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Алтуфьевское ш., 70, корп. 1, Москва, этаж 3",
-            "lat": 37.587986,
-            "lon": 55.888201
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 853,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Профсоюзная ул., 129А, Москва, этаж 4",
-            "lat": 37.507068,
-            "lon": 55.619198
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 854,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Планерная ул., 7, Москва, этаж 2",
-            "lat": 37.434427,
-            "lon": 55.863421
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 855,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "66М, д. Брёхово",
-            "lat": 37.195894,
-            "lon": 55.927672
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 856,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ул. Маршала Бирюзова, 32, Москва, этаж 3",
-            "lat": 37.483796,
-            "lon": 55.799767
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 857,
-        "fields": {
-            "title": "Вкусно и точка",
-            "adress": "МКАД, 2-й километр, 2, Реутов",
-            "lat": 37.844319,
-            "lon": 55.762603
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 858,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Кировоградская ул., 14, Москва, этаж 2",
-            "lat": 37.605839,
-            "lon": 55.623009
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 859,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ул. Мира, с51, Мытищи, этаж 2",
-            "lat": 37.708064,
-            "lon": 55.91987
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 860,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Химкинский бул., вл7-23, Москва, этаж 4",
-            "lat": 37.44294,
-            "lon": 55.850109
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 861,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Снежная ул., 27, Москва, этаж 3",
-            "lat": 37.653034,
-            "lon": 55.855916
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 862,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "просп. Андропова, 1, Москва, этаж 2",
-            "lat": 37.674588,
-            "lon": 55.694363
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 863,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Пятницкое ш., 39, Москва",
-            "lat": 37.355498,
-            "lon": 55.855153
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 864,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ул. Перерва, 43, корп. 1, Москва",
-            "lat": 37.749555,
-            "lon": 55.659745
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 865,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "1-й Покровский пр., 5, Котельники, этаж 1",
-            "lat": 37.844966,
-            "lon": 55.65409
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 866,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Олимпийская ул., 6, корп. 1, Видное",
-            "lat": 37.699094,
-            "lon": 55.545345
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 867,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Москва, поселение Воскресенское, Чечёрский проезд, 51, этаж 3",
-            "lat": 37.517076,
-            "lon": 55.524907
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 868,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Хорошёвское ш., 27, Москва",
-            "lat": 37.525039,
-            "lon": 55.777421
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 869,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Азовская ул., 24, корп. 3, Москва, этаж 3",
-            "lat": 37.594752,
-            "lon": 55.647629
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 870,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ул. Хабарова, 2, Московский, подъезд 4",
-            "lat": 37.349841,
-            "lon": 55.593161
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 871,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "1А, Южный административный округ, район Чертаново Северное, микрорайон Северное Чертаново, Москва",
-            "lat": 37.598233,
-            "lon": 55.636327
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 872,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Лихачёвский просп., 74, Долгопрудный",
-            "lat": 37.49294,
-            "lon": 55.936187
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 873,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Носовихинское ш., 45, Реутов, этаж 4",
-            "lat": 37.887043,
-            "lon": 55.751645
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 874,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "МКАД, 71-й километр, 16А, д. Путилково, этаж 2",
-            "lat": 37.394896,
-            "lon": 55.859222
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 875,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "вл2, посёлок Отрадное",
-            "lat": 37.324156,
-            "lon": 55.873562
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 876,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Ореховый бул., 15, Москва",
-            "lat": 37.720069,
-            "lon": 55.612766
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 877,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "просп. Мира, 5А, Фрязино",
-            "lat": 38.047919,
-            "lon": 55.949929
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 878,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Московская область, городской округ Красногорск, Пятницкое шоссе, 7-й километр, вл2",
-            "lat": 37.331347,
-            "lon": 55.877169
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 879,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Волоколамское ш., 3, стр. 1, Красногорск",
-            "lat": 37.338119,
-            "lon": 55.819058
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 880,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "с231, рабочий посёлок Селятино",
-            "lat": 36.990824,
-            "lon": 55.512255
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 881,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "просп. Вернадского, 105, Москва",
-            "lat": 37.4859,
-            "lon": 55.66301
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 882,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Алтуфьевское шоссе, 1-й километр, вл3с1, Москва, этаж 2",
-            "lat": 37.585204,
-            "lon": 55.912604
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 883,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ул. Селезнёва, 33, Мытищи, этаж 1",
-            "lat": 37.727569,
-            "lon": 55.891841
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 884,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "ул. Побратимов, 7, Люберцы, этаж 3",
-            "lat": 37.896487,
-            "lon": 55.692168
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 885,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Шараповский пр., вл2, Мытищи, этаж 1",
-            "lat": 37.757402,
-            "lon": 55.916586
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 886,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Шереметьевское ш., вл2с1, Химки, терминал D",
-            "lat": 37.405777,
-            "lon": 55.963309
-        }
-    },
-    {
-        "model": "list_rest.restaurant",
-        "pk": 887,
-        "fields": {
-            "title": "Вкусно — и точка",
-            "adress": "Москва, поселение Московский, МКАД, 47-й километр, вл31с1",
-            "lat": 37.428578,
-            "lon": 55.659536
-        }
+        "title": "Вкусно — и точка",
+        "adress": "Волгоградский просп., 24",
+        "coord": [
+            37.679822,
+            55.727154
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Большая Бронная ул., 29",
+        "coord": [
+            37.60317,
+            55.764554
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Манежная площадь, 1, стр. 2",
+        "coord": [
+            37.615102,
+            55.755617
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Большая Серпуховская ул., 4/3",
+        "coord": [
+            37.623767,
+            55.729118
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ул. Большая Ордынка, 21, стр. 2",
+        "coord": [
+            37.625559,
+            55.740931
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Большая Дорогомиловская ул., 8А",
+        "coord": [
+            37.566184,
+            55.745845
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Рязанский просп., 32, корп. 2, Москва",
+        "coord": [
+            37.785317,
+            55.718112
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "просп. Мира, 39А",
+        "coord": [
+            37.632178,
+            55.780991
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "просп. Мира, 119, стр. 547",
+        "coord": [
+            37.637736,
+            55.828619
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ул. Красная Пресня, 31",
+        "coord": [
+            37.563187,
+            55.76242
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Троилинский пер., 1",
+        "coord": [
+            37.584492,
+            55.747389
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Щёлковское ш., 2/1с1",
+        "coord": [
+            37.755564,
+            55.802799
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Зеленодольская ул., 38",
+        "coord": [
+            37.766836,
+            55.705934
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Русаковская ул., 26",
+        "coord": [
+            37.681267,
+            55.78872
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Свободный просп., 35Б",
+        "coord": [
+            37.817215,
+            55.750311
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Большая Семёновская ул., 26",
+        "coord": [
+            37.706721,
+            55.782059
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ул. Сергия Радонежского, 29-31с4, Москва",
+        "coord": [
+            37.679445,
+            55.7472
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Ленинский просп., 111/2",
+        "coord": [
+            37.508753,
+            55.66223
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Коломенский пр., 7Б",
+        "coord": [
+            37.658667,
+            55.667612
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Бутырская ул., 77, стр. 2",
+        "coord": [
+            37.582242,
+            55.804315
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Люблинская ул., 165, корп. 1А",
+        "coord": [
+            37.744725,
+            55.649717
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ул. Вавилова, 66, Москва",
+        "coord": [
+            37.549531,
+            55.682818
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ул. Земляной Вал, 27, стр. 2, Москва",
+        "coord": [
+            37.658583,
+            55.758606
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Каширское ш., 12А",
+        "coord": [
+            37.628813,
+            55.665969
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ул. Милашенкова, 4Д",
+        "coord": [
+            37.588626,
+            55.822834
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "просп. Маршала Жукова, 31, корп. 2, Москва",
+        "coord": [
+            37.479057,
+            55.775161
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Ярославское ш., вл3с1, Москва",
+        "coord": [
+            37.67636,
+            55.851443
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Носовихинское ш., 12, Реутов, этаж 1",
+        "coord": [
+            37.862778,
+            55.746158
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ул. Покрышкина, 2, Москва",
+        "coord": [
+            37.481279,
+            55.664164
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ул. Вавилова, 3, Москва, этаж 2",
+        "coord": [
+            37.589981,
+            55.707253
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Каширское ш., 61/15, Москва",
+        "coord": [
+            37.717942,
+            55.612192
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Новослободская ул., 16, Москва, этаж 2",
+        "coord": [
+            37.59918,
+            55.781736
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Хорошёвское ш., 35А, стр. 1, Москва",
+        "coord": [
+            37.520823,
+            55.777342
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Инициативная ул., 7Г, стр. 1, Люберцы",
+        "coord": [
+            37.894781,
+            55.685153
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ул. Маросейка, 9/2с1, Москва",
+        "coord": [
+            37.634421,
+            55.757706
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Можайское ш., 43/1, Москва",
+        "coord": [
+            37.409158,
+            55.716774
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Ленинградское ш., 63, корп. 1, Москва",
+        "coord": [
+            37.462336,
+            55.865667
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Матвеевская ул., 9, Москва",
+        "coord": [
+            37.45887,
+            55.703816
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Никольская ул., 10, Москва, этаж 0",
+        "coord": [
+            37.624004,
+            55.757947
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "просп. Мира, 123А, Москва",
+        "coord": [
+            37.642302,
+            55.827453
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "площадь Тверская Застава, 2, стр. 2, Москва, этаж 2",
+        "coord": [
+            37.584063,
+            55.775456
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Дмитровское ш., 89Б, стр. 1, Москва",
+        "coord": [
+            37.548119,
+            55.864309
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Ладожская ул., 1/2, Москва",
+        "coord": [
+            37.681513,
+            55.77167
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "МКАД, 3-й километр, 3, Реутов",
+        "coord": [
+            37.843068,
+            55.75485
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ш. Энтузиастов, 32А, Балашиха",
+        "coord": [
+            37.93663,
+            55.793717
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Братиславская ул., 16, корп. 1, Москва, этаж 1",
+        "coord": [
+            37.757449,
+            55.659358
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Лухмановская ул., вл8, Москва, этаж 1",
+        "coord": [
+            37.899706,
+            55.714493
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Комсомольский просп., 28, Москва, этаж 1",
+        "coord": [
+            37.580257,
+            55.72763
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Кожевническая ул., 8/4с1, Москва",
+        "coord": [
+            37.644119,
+            55.729761
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Мясницкая ул., 14/2с1, Москва, этаж 2",
+        "coord": [
+            37.63203,
+            55.760728
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ш. Энтузиастов, вл63с1, Москва",
+        "coord": [
+            37.835695,
+            55.775806
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ул. Грина, 5А, Москва",
+        "coord": [
+            37.573087,
+            55.566346
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Боровское ш., 38, Москва",
+        "coord": [
+            37.351638,
+            55.638348
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ул. Шаболовка, 34, стр. 4, Москва",
+        "coord": [
+            37.607574,
+            55.718481
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Новорязанское ш., 6А, Котельники",
+        "coord": [
+            37.871346,
+            55.668314
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Большая Тульская ул., 2, Москва",
+        "coord": [
+            37.620929,
+            55.710243
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ул. Лескова, 1, Москва",
+        "coord": [
+            37.588326,
+            55.89821
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ул. Маршала Катукова, 19, Москва",
+        "coord": [
+            37.409264,
+            55.807085
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Таганская ул., 1, стр. 1, Москва, фудкорт, ТЦ \"Звёздочка\", этаж 3",
+        "coord": [
+            37.655865,
+            55.741733
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Газетный пер., 17, Москва",
+        "coord": [
+            37.610473,
+            55.758855
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Кировоградская ул., 9, корп. 4, стр. 3, Москва, этаж 1",
+        "coord": [
+            37.613331,
+            55.622277
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "9-я Парковая ул., 62, Москва",
+        "coord": [
+            37.800275,
+            55.805555
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Волоколамское ш., 90, корп. 2, Москва",
+        "coord": [
+            37.436271,
+            55.824839
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Пресненская наб., 2, Москва, этаж 5",
+        "coord": [
+            37.538876,
+            55.748937
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Ходынский бул., 4, Москва, этаж 4",
+        "coord": [
+            37.530745,
+            55.790885
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Кантемировская ул., 47, Москва",
+        "coord": [
+            37.656744,
+            55.637573
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Красногорский бул., 1, Красногорск",
+        "coord": [
+            37.361062,
+            55.818907
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Октябрьская ул., 35, микрорайон Железнодорожный, Балашиха",
+        "coord": [
+            37.999823,
+            55.751361
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "просп. Мира, 97, Москва, этаж 1",
+        "coord": [
+            37.636707,
+            55.809982
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Липецкая ул., 2, корп. 7, Москва",
+        "coord": [
+            37.66318,
+            55.610647
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Привольная ул., 70, корп. 2, Москва",
+        "coord": [
+            37.855658,
+            55.677163
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Люблинская ул., 66, Москва",
+        "coord": [
+            37.739498,
+            55.671825
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ул. Менжинского, 36, Москва",
+        "coord": [
+            37.662965,
+            55.870342
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ул. Новый Арбат, 5, Москва",
+        "coord": [
+            37.597977,
+            55.752715
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Сосновая ул., 2, д. Сосенки",
+        "coord": [
+            37.450102,
+            55.570431
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Осенний бул., 12, Москва, этаж 1",
+        "coord": [
+            37.409304,
+            55.759372
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Коммунистическая ул., 10, корп. 1, Мытищи",
+        "coord": [
+            37.74419,
+            55.891121
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Ленинградское ш., 30А, Химки",
+        "coord": [
+            37.416682,
+            55.904973
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Митинская ул., 40, корп. 3, Москва",
+        "coord": [
+            37.361204,
+            55.847629
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Ярославское ш., 101, Мытищи",
+        "coord": [
+            37.778323,
+            55.911424
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ул. Мастеркова, 6А, стр. 2, Москва",
+        "coord": [
+            37.657225,
+            55.708222
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ул. Миклухо-Маклая, 36А, Москва, ТЦ МЦ, этаж 1",
+        "coord": [
+            37.532695,
+            55.640343
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Широкая ул., 13А, Москва, этаж 1",
+        "coord": [
+            37.662659,
+            55.887916
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Чертановская ул., 20, стр. 3, Москва",
+        "coord": [
+            37.594117,
+            55.624899
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Вешняковская ул., 22А, Москва",
+        "coord": [
+            37.822173,
+            55.720362
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Белореченская ул., 14, Москва, этаж 1",
+        "coord": [
+            37.763343,
+            55.66992
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Ленинградский просп., 36, Москва, этаж 1",
+        "coord": [
+            37.558229,
+            55.790856
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Мичуринский просп., вл27, Москва",
+        "coord": [
+            37.500223,
+            55.697308
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Хабаровская ул., 15, Москва",
+        "coord": [
+            37.823687,
+            55.822714
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Большая Тульская ул., 13, Москва, этаж 3",
+        "coord": [
+            37.622388,
+            55.709452
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Малая Сухаревская площадь, 12, Москва",
+        "coord": [
+            37.631745,
+            55.772139
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ул. Измайловский Вал, 2, Москва",
+        "coord": [
+            37.719275,
+            55.783794
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Можайское ш., 133, Одинцово",
+        "coord": [
+            37.295297,
+            55.68404
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Ленинградское ш., 16А, стр. 8, Москва",
+        "coord": [
+            37.495437,
+            55.824468
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Венёвская ул., 4, Москва, этаж 1",
+        "coord": [
+            37.542509,
+            55.548472
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Октябрьский просп., 411А, Люберцы",
+        "coord": [
+            37.917115,
+            55.659241
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Варшавское ш., 143А, Москва",
+        "coord": [
+            37.599156,
+            55.583681
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Ленинградский просп., 62А, Москва, этаж 2",
+        "coord": [
+            37.532587,
+            55.802019
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "просп. Вернадского, 6, Москва, этаж 3",
+        "coord": [
+            37.528202,
+            55.692313
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "1-я Останкинская ул., 55, Москва, этаж 2",
+        "coord": [
+            37.633553,
+            55.823663
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Комсомольская площадь, 3, Москва",
+        "coord": [
+            37.654784,
+            55.776477
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Профсоюзная ул., 118, Москва",
+        "coord": [
+            37.521268,
+            55.636457
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Малая Юшуньская ул., 1, корп. 1, Москва",
+        "coord": [
+            37.593876,
+            55.652761
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ул. Мира, вл40, Мытищи",
+        "coord": [
+            37.715138,
+            55.922378
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Свободный просп., 33А, Москва, этаж 1",
+        "coord": [
+            37.818129,
+            55.75234
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Рязанский просп., 2, корп. 2, Москва, этаж 2",
+        "coord": [
+            37.732231,
+            55.729908
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ул. Декабристов, 12, Москва, этаж 2",
+        "coord": [
+            37.600898,
+            55.863293
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ул. Борисовские Пруды, 26, стр. 2, Москва, этаж 1",
+        "coord": [
+            37.758438,
+            55.638774
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Совхозная ул., 39, Москва",
+        "coord": [
+            37.76032,
+            55.673807
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Москва, поселение Московский, Киевское шоссе, 22-й километр, дв4с1кБ, этаж 1",
+        "coord": [
+            37.443511,
+            55.633918
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Московская область, городской округ Красногорск, Новорижское шоссе, 29-й километр, с1",
+        "coord": [
+            37.185941,
+            55.778325
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Балтийская ул., 9, Москва",
+        "coord": [
+            37.513126,
+            55.809283
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "просп. Королёва, 5Д, корп. 1, Королёв",
+        "coord": [
+            37.844465,
+            55.921951
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Лермонтовский просп., 19, корп. 2, Москва",
+        "coord": [
+            37.855769,
+            55.700079
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ул. Лобачевского, 37, стр. 1, Москва",
+        "coord": [
+            37.474507,
+            55.687715
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ш. Энтузиастов, 4А, квартал Западная Промзона, Балашиха",
+        "coord": [
+            37.910984,
+            55.794042
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ул. Ленина, 16, Красногорск",
+        "coord": [
+            37.306009,
+            55.829318
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Центральная ул., 8Б, посёлок Внуково",
+        "coord": [
+            37.286689,
+            55.611178
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "7-я Кожуховская ул., 9, Москва, этаж 3",
+        "coord": [
+            37.675432,
+            55.710338
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Шарикоподшипниковская ул., 11, стр. 5, Москва",
+        "coord": [
+            37.676504,
+            55.718687
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Ярцевская ул., 19, Москва, этаж 4",
+        "coord": [
+            37.410806,
+            55.738482
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Ярославское ш., 54, Москва",
+        "coord": [
+            37.704942,
+            55.865985
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Складочная ул., 1, стр. 31, Москва, этаж 1",
+        "coord": [
+            37.594532,
+            55.802444
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Алтуфьевское ш., 24, корп. 1, Москва",
+        "coord": [
+            37.585168,
+            55.862517
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Варшавское ш., 135Б, Москва",
+        "coord": [
+            37.603071,
+            55.596276
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Новоухтомское ш., 2А, стр. 2, Москва",
+        "coord": [
+            37.849677,
+            55.710846
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "просп. Космонавтов, 20А, Королёв",
+        "coord": [
+            37.866984,
+            55.914955
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Снежная ул., 16, корп. 1, Москва, павильон 1-7, этаж 1",
+        "coord": [
+            37.645875,
+            55.851267
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Шереметьевская ул., 6, корп. 1, Москва, этаж 4",
+        "coord": [
+            37.616823,
+            55.794705
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Щукинская ул., 42, Москва, этаж 4",
+        "coord": [
+            37.463331,
+            55.809468
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Советская ул., 2, Одинцово",
+        "coord": [
+            37.279515,
+            55.672132
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ул. Ленина, 2Б, Дзержинский, этаж 1",
+        "coord": [
+            37.840971,
+            55.638676
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "просп. Ленина, 25, Балашиха",
+        "coord": [
+            37.938348,
+            55.797706
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Киевская ул., 2, Москва",
+        "coord": [
+            37.563714,
+            55.74403
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Западная ул., 181, рабочий посёлок Новоивановское",
+        "coord": [
+            37.343842,
+            55.699303
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "МКАД, 104-й километр, 6, Москва",
+        "coord": [
+            37.837908,
+            55.810591
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ш. Энтузиастов, 1Б, Балашиха",
+        "coord": [
+            37.926244,
+            55.794349
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ул. Никитина, 2, Московский, этаж 2",
+        "coord": [
+            37.356453,
+            55.604293
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "МКАД, 47-й километр, вл31с1",
+        "coord": [
+            37.428578,
+            55.659536
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Кутузовский просп., 57, Москва, этаж 3",
+        "coord": [
+            37.477726,
+            55.727879
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Рязанский просп., 75, стр. 1, Москва, этаж 2",
+        "coord": [
+            37.791666,
+            55.717832
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Рябиновая ул., 15, стр. 1, д. Десна",
+        "coord": [
+            37.386166,
+            55.52555
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "МКАД, 38-й километр, 4Б, Москва",
+        "coord": [
+            37.513558,
+            55.596176
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "просп. Мира, 211, корп. 2, Москва, этаж 2",
+        "coord": [
+            37.660237,
+            55.84545
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ул. Борисовские Пруды, 8А, Москва",
+        "coord": [
+            37.736551,
+            55.634984
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Пролетарский просп., 9/1, Щёлково",
+        "coord": [
+            37.999082,
+            55.924584
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Мясницкая ул., 30/1, Москва",
+        "coord": [
+            37.638386,
+            55.765364
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Театральный пр., 5, стр. 1, Центральный административный округ, Тверской район, Москва, этаж 6",
+        "coord": [
+            37.624631,
+            55.759816
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ул. Героев Панфиловцев, 7, Москва",
+        "coord": [
+            37.432083,
+            55.857337
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Головинское ш., 5, корп. 1, Москва, этаж 3",
+        "coord": [
+            37.491228,
+            55.840261
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Советская ул., 33, Балашиха",
+        "coord": [
+            37.952566,
+            55.815373
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Шараповский пр., с9, Мытищи",
+        "coord": [
+            37.759631,
+            55.915313
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "просп. Андропова, 22, Москва, этаж 3",
+        "coord": [
+            37.661921,
+            55.682773
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "7-я Кожуховская ул., 9, Москва, этаж 3",
+        "coord": [
+            37.675447,
+            55.710341
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ул. Ленина, 39Б, стр. 1, рабочий посёлок Октябрьский",
+        "coord": [
+            37.978074,
+            55.607418
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Молодёжная ул., 9А, Химки",
+        "coord": [
+            37.415644,
+            55.882345
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Чонгарский бул., 19, Москва, этаж 2",
+        "coord": [
+            37.606979,
+            55.652832
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Дмитровское ш., 36А, село Виноградово",
+        "coord": [
+            37.540856,
+            55.946146
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Локомотивный пр., 4, Москва, этаж 3",
+        "coord": [
+            37.576978,
+            55.838326
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "МКАД, 27-й километр, вл9, Москва, ТЦ БрендСити",
+        "coord": [
+            37.703125,
+            55.580874
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Новосходненское ш., 140, Химки",
+        "coord": [
+            37.314867,
+            55.938158
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Дмитровское ш., 163А, корп. 1, Москва",
+        "coord": [
+            37.542806,
+            55.910778
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Западная ул., 18А, рабочий посёлок Новоивановское",
+        "coord": [
+            37.36224,
+            55.709122
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Новорязанское ш., 7, корп. 1, Люберцы",
+        "coord": [
+            37.870431,
+            55.67008
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Новоясеневский просп., 11, Москва",
+        "coord": [
+            37.536172,
+            55.606872
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ул. Александры Монаховой, 93А, посёлок Коммунарка",
+        "coord": [
+            37.49008,
+            55.543343
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Путилковское ш., 2, стр. 1, д. Путилково",
+        "coord": [
+            37.399612,
+            55.870838
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ул. Михалевича, 3А, Раменское",
+        "coord": [
+            38.230808,
+            55.567781
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Центральная ул., 8, дачный посёлок Лесной Городок",
+        "coord": [
+            37.211869,
+            55.632621
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ул. Яблочкова, 19-21, Москва",
+        "coord": [
+            37.5772,
+            55.818919
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Щёлковское ш., 100, корп. 100, Москва",
+        "coord": [
+            37.831056,
+            55.810746
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Профсоюзная ул., 56, Москва, этаж 4",
+        "coord": [
+            37.55326,
+            55.669874
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ул. Дыбенко, 7/1, Москва",
+        "coord": [
+            37.478628,
+            55.878499
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Московская область, городской округ Красногорск, М-9 Балтия, 25-й километр, вл1",
+        "coord": [
+            37.256984,
+            55.788153
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Хорошёвский пр., 14, село Немчиновка, этаж 2",
+        "coord": [
+            37.380217,
+            55.719135
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Можайское ш., 58, Москва, этаж 1",
+        "coord": [
+            37.395915,
+            55.71547
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Подмосковная ул., 37/2, д. Островцы",
+        "coord": [
+            37.985703,
+            55.598165
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Парковая ул., с2, Лыткарино",
+        "coord": [
+            37.912499,
+            55.581462
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Юбилейный просп., 57, Реутов",
+        "coord": [
+            37.881741,
+            55.753651
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Багратионовский пр., 5, Москва, этаж 3",
+        "coord": [
+            37.50892,
+            55.743942
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ул. Менделеева, 14, Жуковский",
+        "coord": [
+            38.108447,
+            55.603405
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ул. Миклухо-Маклая, 18, корп. 3, Москва",
+        "coord": [
+            37.520302,
+            55.644379
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Профсоюзная ул., 61А, Москва, этаж 2",
+        "coord": [
+            37.542186,
+            55.65604
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Юбилейный просп., 85, Химки",
+        "coord": [
+            37.408067,
+            55.898248
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "159-й пр., с2, Мытищи",
+        "coord": [
+            37.748379,
+            55.932962
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Каширское ш., 80, Москва, этаж -1",
+        "coord": [
+            37.709392,
+            55.624787
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Новоясеневский просп., 7, Москва, этаж 3",
+        "coord": [
+            37.532995,
+            55.608074
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Ленинский просп., 101, Москва",
+        "coord": [
+            37.515506,
+            55.666415
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Севастопольский просп., 11Е, Москва",
+        "coord": [
+            37.604532,
+            55.687707
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ул. Пришвина, 22, Москва",
+        "coord": [
+            37.602366,
+            55.885185
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Бирюлёвская ул., 51, корп. 1, Москва",
+        "coord": [
+            37.671617,
+            55.582796
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Михневское ш., 3, рабочий посёлок Малаховка",
+        "coord": [
+            38.017138,
+            55.624823
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Каширское ш., 61Г, Москва, этаж 4",
+        "coord": [
+            37.712974,
+            55.622151
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Международная ул., 12, Красногорск, этаж 3",
+        "coord": [
+            37.385825,
+            55.820974
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Большая Воскресенская ул., 1, Красногорск",
+        "coord": [
+            37.341619,
+            55.816503
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "просп. Андропова, 8, Москва, этаж 3",
+        "coord": [
+            37.664931,
+            55.695716
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Дирижабельная ул., 23, Долгопрудный",
+        "coord": [
+            37.506203,
+            55.945865
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ул. Мичуринский Проспект, Олимпийская Деревня, 3, корп. 1, Москва, этаж 3",
+        "coord": [
+            37.467287,
+            55.67804
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Староватутинский пр., 14, Москва",
+        "coord": [
+            37.665853,
+            55.875867
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "1-й Покровский пр., 1, Котельники, этаж 2",
+        "coord": [
+            37.84712,
+            55.657526
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ул. Кулакова, 16, корп. 1, Москва",
+        "coord": [
+            37.394362,
+            55.807138
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "пр. Дежнёва, 21, Москва",
+        "coord": [
+            37.637569,
+            55.870624
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Ленинградское ш., вл5, Химки, этаж 1",
+        "coord": [
+            37.43313,
+            55.888639
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Мичуринский просп., 21А, Москва",
+        "coord": [
+            37.505284,
+            55.700026
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Рублёво-Успенское ш., 17, посёлок Горки-2",
+        "coord": [
+            37.166224,
+            55.723747
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "3-я Парковая ул., 24, Москва",
+        "coord": [
+            37.783207,
+            55.794771
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Пятницкое ш., 9, посёлок Отрадное",
+        "coord": [
+            37.319396,
+            55.879889
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ул. Каховка, 29А, Москва, этаж 4",
+        "coord": [
+            37.569506,
+            55.65595
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Каширское ш., 14, Москва, этаж 3",
+        "coord": [
+            37.627262,
+            55.664839
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ул. Красного Маяка, 2Б, Москва, этаж 2",
+        "coord": [
+            37.60632,
+            55.611325
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "просп. Мира, 40, Москва",
+        "coord": [
+            37.633635,
+            55.780182
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Волоцкой пер., 9, Москва",
+        "coord": [
+            37.35199,
+            55.836834
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Северное ш., 11, Раменское",
+        "coord": [
+            38.21951,
+            55.583486
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Большая Семёновская ул., 17А, Москва, этаж 3",
+        "coord": [
+            37.706021,
+            55.782931
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Берёзовая ул., 4, Видное",
+        "coord": [
+            37.719172,
+            55.545207
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ул. Маршала Неделина, 6Б, Одинцово",
+        "coord": [
+            37.268591,
+            55.678006
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Вешняковская ул., 18, Москва, этаж 4",
+        "coord": [
+            37.824742,
+            55.724255
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Московская область, городской округ Красногорск, М-9 Балтия, 21-й километр, с1",
+        "coord": [
+            37.299775,
+            55.804481
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Москва, поселение Московский, Киевское шоссе, 23-й километр, 1, этаж Р1",
+        "coord": [
+            37.423626,
+            55.622481
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Тушинская ул., 18, Москва",
+        "coord": [
+            37.443603,
+            55.827558
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "МКАД, 24-й километр, 1, посёлок Совхоза имени Ленина, ТЦ ВЕГАС",
+        "coord": [
+            37.723644,
+            55.585268
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Рублёвское ш., 62, Москва, этаж 2",
+        "coord": [
+            37.381045,
+            55.766533
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Октябрьский просп., 112, Люберцы, этаж 3",
+        "coord": [
+            37.877254,
+            55.685617
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Дмитровское ш., 89, Москва, этаж 2",
+        "coord": [
+            37.545456,
+            55.8641
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Москва, поселение Московский, Киевское шоссе, 23-й километр, 1, этаж 2",
+        "coord": [
+            37.42409,
+            55.624106
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Каширское ш., 26, Москва, этаж 3",
+        "coord": [
+            37.64723,
+            55.653678
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ул. Лобачевского, 37, стр. 1, Москва",
+        "coord": [
+            37.47458,
+            55.687731
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "МКАД, 41-й километр, с1, Москва, ТРЦ МЕГА, этаж 2",
+        "coord": [
+            37.49175,
+            55.603484
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Большая Черёмушкинская ул., 1, Москва",
+        "coord": [
+            37.601574,
+            55.690625
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Шереметьевская ул., 20, Москва, этаж 3",
+        "coord": [
+            37.618526,
+            55.802845
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Старокачаловская ул., 5А, Москва, этаж 2",
+        "coord": [
+            37.578775,
+            55.569983
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Ореховый бул., 22А, Москва, этаж 3",
+        "coord": [
+            37.731531,
+            55.611851
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Бартеневская ул., 14, Москва",
+        "coord": [
+            37.52858,
+            55.55049
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Ленинградское ш., вл9, Химки",
+        "coord": [
+            37.427305,
+            55.895157
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Шараповский пр., вл2, Мытищи, этаж 3",
+        "coord": [
+            37.75914,
+            55.916528
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Новоясеневский просп., 1, Москва, этаж 2",
+        "coord": [
+            37.51014,
+            55.619306
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ул. Авиаторов, 3А, Москва, этаж 2",
+        "coord": [
+            37.397567,
+            55.643181
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Варшавское ш., 140, Москва, этаж 4",
+        "coord": [
+            37.608309,
+            55.611282
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "1, район Новокуркино, 8-й микрорайон, Химки, этаж 2",
+        "coord": [
+            37.397019,
+            55.911623
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "1, территория Ногинск-Технопарк, Ногинск",
+        "coord": [
+            38.403617,
+            55.830571
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Лобненская ул., 4А, Москва, этаж 2",
+        "coord": [
+            37.538054,
+            55.890017
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ул. Селезнёва, 33, Мытищи, этаж 2",
+        "coord": [
+            37.727683,
+            55.892036
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Варшавское ш., 87А, Москва, этаж 3",
+        "coord": [
+            37.620695,
+            55.653268
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "просп. Вернадского, 86А, Москва, ТЦ АВЕНЮ, этаж 5",
+        "coord": [
+            37.480853,
+            55.663262
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "117, д. Новинки",
+        "coord": [
+            37.12855,
+            55.811356
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ул. Генерала Кузнецова, 22, Москва",
+        "coord": [
+            37.854572,
+            55.685921
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Алтуфьевское ш., 70, корп. 1, Москва, этаж 3",
+        "coord": [
+            37.587986,
+            55.888201
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Профсоюзная ул., 129А, Москва, этаж 4",
+        "coord": [
+            37.507068,
+            55.619198
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Планерная ул., 7, Москва, этаж 2",
+        "coord": [
+            37.434427,
+            55.863421
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "66М, д. Брёхово",
+        "coord": [
+            37.195894,
+            55.927672
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ул. Маршала Бирюзова, 32, Москва, этаж 3",
+        "coord": [
+            37.483796,
+            55.799767
+        ]
+    },
+    {
+        "title": "Вкусно и точка",
+        "adress": "МКАД, 2-й километр, 2, Реутов",
+        "coord": [
+            37.844319,
+            55.762603
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Кировоградская ул., 14, Москва, этаж 2",
+        "coord": [
+            37.605839,
+            55.623009
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ул. Мира, с51, Мытищи, этаж 2",
+        "coord": [
+            37.708064,
+            55.91987
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Химкинский бул., вл7-23, Москва, этаж 4",
+        "coord": [
+            37.44294,
+            55.850109
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Снежная ул., 27, Москва, этаж 3",
+        "coord": [
+            37.653034,
+            55.855916
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "просп. Андропова, 1, Москва, этаж 2",
+        "coord": [
+            37.674588,
+            55.694363
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Пятницкое ш., 39, Москва",
+        "coord": [
+            37.355498,
+            55.855153
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ул. Перерва, 43, корп. 1, Москва",
+        "coord": [
+            37.749555,
+            55.659745
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "1-й Покровский пр., 5, Котельники, этаж 1",
+        "coord": [
+            37.844966,
+            55.65409
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Олимпийская ул., 6, корп. 1, Видное",
+        "coord": [
+            37.699094,
+            55.545345
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Москва, поселение Воскресенское, Чечёрский проезд, 51, этаж 3",
+        "coord": [
+            37.517076,
+            55.524907
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Хорошёвское ш., 27, Москва",
+        "coord": [
+            37.525039,
+            55.777421
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Азовская ул., 24, корп. 3, Москва, этаж 3",
+        "coord": [
+            37.594752,
+            55.647629
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ул. Хабарова, 2, Московский, подъезд 4",
+        "coord": [
+            37.349841,
+            55.593161
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "1А, Южный административный округ, район Чертаново Северное, микрорайон Северное Чертаново, Москва",
+        "coord": [
+            37.598233,
+            55.636327
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Лихачёвский просп., 74, Долгопрудный",
+        "coord": [
+            37.49294,
+            55.936187
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Носовихинское ш., 45, Реутов, этаж 4",
+        "coord": [
+            37.887043,
+            55.751645
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "МКАД, 71-й километр, 16А, д. Путилково, этаж 2",
+        "coord": [
+            37.394896,
+            55.859222
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "вл2, посёлок Отрадное",
+        "coord": [
+            37.324156,
+            55.873562
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Ореховый бул., 15, Москва",
+        "coord": [
+            37.720069,
+            55.612766
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "просп. Мира, 5А, Фрязино",
+        "coord": [
+            38.047919,
+            55.949929
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Московская область, городской округ Красногорск, Пятницкое шоссе, 7-й километр, вл2",
+        "coord": [
+            37.331347,
+            55.877169
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Волоколамское ш., 3, стр. 1, Красногорск",
+        "coord": [
+            37.338119,
+            55.819058
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "с231, рабочий посёлок Селятино",
+        "coord": [
+            36.990824,
+            55.512255
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "просп. Вернадского, 105, Москва",
+        "coord": [
+            37.4859,
+            55.66301
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Алтуфьевское шоссе, 1-й километр, вл3с1, Москва, этаж 2",
+        "coord": [
+            37.585204,
+            55.912604
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ул. Селезнёва, 33, Мытищи, этаж 1",
+        "coord": [
+            37.727569,
+            55.891841
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "ул. Побратимов, 7, Люберцы, этаж 3",
+        "coord": [
+            37.896487,
+            55.692168
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Шараповский пр., вл2, Мытищи, этаж 1",
+        "coord": [
+            37.757402,
+            55.916586
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Шереметьевское ш., вл2с1, Химки, терминал D",
+        "coord": [
+            37.405777,
+            55.963309
+        ]
+    },
+    {
+        "title": "Вкусно — и точка",
+        "adress": "Москва, поселение Московский, МКАД, 47-й километр, вл31с1",
+        "coord": [
+            37.428578,
+            55.659536
+        ]
     }
 ]
