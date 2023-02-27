@@ -65,10 +65,10 @@ def get_data(file_path, name):
                     'coord': [lat, lon]
                 }
             )
-        else:
-            print(name, 'Координаты не найдены', elements.index(i))
+        # else:
+        #     print(name, 'Координаты не найдены', elements.index(i))
 
-    with open(f'restaurants/list_rest/fixtures/{name}_newdata.json', 'w', encoding='utf-8') as file:
+    with open(f'restaurants/list_rest/fixtures/{name}_data.json', 'w', encoding='utf-8') as file:
         json.dump(result, file, indent=4, ensure_ascii=False)
 
 
